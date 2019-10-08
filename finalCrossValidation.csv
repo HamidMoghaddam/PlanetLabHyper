@@ -1,0 +1,1017 @@
+VMs,TimeWindow,Model,Score,BestParams
+146-179_surfsnel_dsl_internl_net_root,20,DNN,0.01732059,35
+146-179_surfsnel_dsl_internl_net_tsinghua_xyz,10,LinearRegression,0.003123581,None
+146-179_surfsnel_dsl_internl_net_uka_p2pns,1,GradientBoosting,0.000191431,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 50}"
+146-179_surfsnel_dsl_internl_net_uw_oneswarm,15,SVR,0.011183453,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+147-179_surfsnel_dsl_internl_net_arizona_owl,15,RandomForest,0.025973472,"{'bootstrap': True, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_depth': None, 'n_estimators': 200}"
+147-179_surfsnel_dsl_internl_net_irisaple_HEAP,10,AdaBooster,0.000754126,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 100}"
+147-179_surfsnel_dsl_internl_net_root,15,DNN,0.016263521,35
+147-179_surfsnel_dsl_internl_net_tsinghua_xyz,15,SVR,0.006079012,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+147-179_surfsnel_dsl_internl_net_uw_oneswarm,3,GradientBoosting,0.001118436,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 10}"
+75-130-96-12_static_oxfr_ma_charter_com_root,10,AdaBooster,0.00223449,"{'learning_rate': 1, 'loss': 'linear', 'n_estimators': 10}"
+75-130-96-12_static_oxfr_ma_charter_com_tsinghua_xyz,20,GradientBoosting,0.001599129,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 7, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 200}"
+75-130-96-13_static_oxfr_ma_charter_com_uka_p2pns,5,LinearRegression,0.000598922,None
+aladdin_planetlab_extranet_uni-passau_de_tsinghua_xyz,15,SVR,0.000482168,"{'coef0': 0, 'degree': 6, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+aladdin_planetlab_extranet_uni-passau_de_uw_oneswarm,20,SVR,0.005911742,"{'coef0': 0, 'degree': 14, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+chimay_infonet_fundp_ac_be_google_highground,20,DNN,0.018027126,61
+chimay_infonet_fundp_ac_be_irisaple_HEAP,20,SVR,0.000576735,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+chimay_infonet_fundp_ac_be_irisaple_wup,20,SVR,0.000568815,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+chimay_infonet_fundp_ac_be_root,4,LinearRegression,0.013858603,None
+chimay_infonet_fundp_ac_be_tsinghua_xyz,20,DecisionTree,0.001223881,"{'max_leaf_nodes': 3, 'min_samples_leaf': 6, 'min_impurity_decrease': 3, 'presort': True, 'min_samples_split': 10, 'max_depth': 3, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+chimay_infonet_fundp_ac_be_uw_oneswarm,10,SVR,0.002785316,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+cs-planetlab3_cs_surrey_sfu_ca_tsinghua_xyz,4,GradientBoosting,0.001879274,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 3, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 200}"
+cs-planetlab3_cs_surrey_sfu_ca_uw_oneswarm,10,RandomForest,0.002697968,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 8, 'max_depth': 2, 'n_estimators': 20}"
+cs-planetlab4_cs_surrey_sfu_ca_root,20,RandomForest,0.026003063,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 5, 'max_depth': None, 'n_estimators': 20}"
+cs-planetlab4_cs_surrey_sfu_ca_uw_oneswarm,15,SVR,0.002874263,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+csplanetlab2_kaist_ac_kr_princeton_codeen,5,RandomForest,0.003185478,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 4, 'max_depth': 5, 'n_estimators': 10}"
+csplanetlab2_kaist_ac_kr_tsinghua_xyz,15,LinearRegression,0.00099109,None
+csplanetlab2_kaist_ac_kr_utokyo_sora,20,LinearRegression,0.000107982,None
+csplanetlab2_kaist_ac_kr_uw_seattle,5,GradientBoosting,0.000389185,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 10}"
+ds-pl3_technion_ac_il_neclabs_neclc,20,DNN,0.009943431,9
+ds-pl3_technion_ac_il_root,20,DNN,0.003817855,67
+ds-pl3_technion_ac_il_tsinghua_xyz,10,GradientBoosting,0.004218515,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 6, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}"
+ds-pl3_technion_ac_il_uw_oneswarm,15,DNN,0.015861791,70
+dschinni_planetlab_extranet_uni-passau_de_uw_oneswarm,15,SVR,0.00485888,"{'coef0': 0, 'degree': 6, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+earth_cs_brown_edu_nyu_d,20,AdaBooster,0.000477622,"{'learning_rate': 0.05, 'loss': 'square', 'n_estimators': 10}"
+earth_cs_brown_edu_root,20,AdaBooster,0.01585967,"{'learning_rate': 0.05, 'loss': 'linear', 'n_estimators': 10}"
+earth_cs_brown_edu_tsinghua_xyz,1,KNN,0.001996464,"{'algorithm': 'kd_tree', 'p': 1, 'leaf_size': 46, 'n_neighbors': 3, 'weights': 'uniform'}"
+earth_cs_brown_edu_uka_p2pns,20,AdaBooster,0.000428001,"{'learning_rate': 0.05, 'loss': 'square', 'n_estimators': 10}"
+earth_cs_brown_edu_uw_oneswarm,15,DNN,0.009859688,87
+ebb_colgate_edu_uw_oneswarm,15,RandomForest,0.002486411,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 5, 'max_depth': None, 'n_estimators': 100}"
+evghu4_colbud_hu_uw_oneswarm,15,GradientBoosting,0.005739422,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+flow_colgate_edu_uw_oneswarm,20,RandomForest,0.003772439,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 6, 'max_depth': None, 'n_estimators': 50}"
+fobos_cecalc_ula_ve_google_highground,5,AdaBooster,0.002374506,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 10}"
+fobos_cecalc_ula_ve_root,1,DNN,0.000595315,95
+fobos_cecalc_ula_ve_tsinghua_xyz,20,GradientBoosting,0.003580873,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 200}"
+fobos_cecalc_ula_ve_uw_oneswarm,15,DNN,0.016636451,76
+fobos_cecalc_ula_ve_uw_seattle,20,GradientBoosting,0.000769203,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}"
+freedom_informatik_rwth-aachen_de_tsinghua_xyz,3,LinearRegression,0.006437629,None
+freedom_informatik_rwth-aachen_de_uw_oneswarm,15,DNN,0.020579456,60
+gschembra3_diit_unict_it_root,2,DNN,0.009994524,22
+gschembra3_diit_unict_it_uw_oneswarm,15,SVR,0.007141458,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+gschembra4_diit_unict_it_root,10,DNN,0.010699548,16
+gschembra4_diit_unict_it_uw_oneswarm,20,DNN,0.012242547,13
+host2_planetlab_informatik_tu-darmstadt_de_princeton_codeen,10,LinearRegression,0.005704734,None
+host2_planetlab_informatik_tu-darmstadt_de_root,5,GradientBoosting,0.005150619,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 200}"
+host2_planetlab_informatik_tu-darmstadt_de_tsinghua_xyz,5,RandomForest,0.004168562,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 2, 'max_depth': 5, 'n_estimators': 20}"
+host2_planetlab_informatik_tu-darmstadt_de_utokyo_sora,2,SVR,8.52E-05,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+host2_planetlab_informatik_tu-darmstadt_de_uw_oneswarm,15,DNN,0.009605812,11
+host2_planetlab_informatik_tu-darmstadt_de_uw_seattle,15,GradientBoosting,0.00017172,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 100}"
+host3-plb_loria_fr_irisaple_wup,20,AdaBooster,0.000987071,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 10}"
+host3-plb_loria_fr_root,4,DNN,0.01580457,20
+host3-plb_loria_fr_tsinghua_xyz,15,RandomForest,0.008970873,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 6, 'max_depth': 2, 'n_estimators': 10}"
+host3_planetlab_informatik_tu-darmstadt_de_princeton_codeen,10,SVR,0.003923895,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+host3_planetlab_informatik_tu-darmstadt_de_uka_p2pns,20,DNN,0.00028101,48
+host4-plb_loria_fr_root,2,DecisionTree,0.014046808,"{'max_leaf_nodes': 10, 'min_samples_leaf': 6, 'min_impurity_decrease': 9, 'presort': False, 'min_samples_split': 2, 'max_depth': 5, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+host4-plb_loria_fr_tsinghua_xyz,1,LinearRegression,0.005398315,None
+host4-plb_loria_fr_uw_oneswarm,15,LinearRegression,0.019208402,None
+inriarennes1_irisa_fr_irisaple_wup,2,RandomForest,0.003946681,"{'bootstrap': False, 'min_samples_split': 10, 'min_samples_leaf': 6, 'max_depth': 3, 'n_estimators': 200}"
+inriarennes1_irisa_fr_umn_net_tools,15,DNN,7.25E-05,65
+inriarennes1_irisa_fr_uw_oneswarm,1,GradientBoosting,0.002010838,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 50}"
+inriarennes2_irisa_fr_uw_oneswarm,10,RandomForest,0.002460593,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 6, 'max_depth': 5, 'n_estimators': 200}"
+iraplab1_iralab_uni-karlsruhe_de_princeton_codeen,3,GradientBoosting,0.001396342,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 200}"
+iraplab1_iralab_uni-karlsruhe_de_tum_i2p,5,RandomForest,0.001791804,"{'bootstrap': False, 'min_samples_split': 3, 'min_samples_leaf': 10, 'max_depth': 3, 'n_estimators': 20}"
+iraplab1_iralab_uni-karlsruhe_de_uw_oneswarm,15,DNN,0.005834098,65
+iraplab2_iralab_uni-karlsruhe_de_ uofathens_zoi,20,GradientBoosting,1.87E-05,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+iraplab2_iralab_uni-karlsruhe_de_tsinghua_xyz,2,DNN,0.000538124,10
+iraplab2_iralab_uni-karlsruhe_de_uw_oneswarm,20,DNN,0.00636202,46
+jupiter_cs_brown_edu_nyu_d,20,SVR,0.000534258,"{'coef0': 0, 'degree': 4, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+jupiter_cs_brown_edu_root,20,LinearRegression,0.027405611,None
+kc-sce-plab2_umkc_edu_irisaple_HEAP,15,GradientBoosting,0.000205857,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+kc-sce-plab2_umkc_edu_princeton_codeen,15,SVR,0.00320642,"{'coef0': 0, 'degree': 13, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+kc-sce-plab2_umkc_edu_uw_oneswarm,15,GradientBoosting,0.00496923,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 8, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 100}"
+kostis_di_uoa_gr_irisaple_wup,10,DNN,0.001418681,92
+kostis_di_uoa_gr_uw_oneswarm,10,LinearRegression,0.007946972,None
+kupl1_ittc_ku_edu_arizona_nest,15,AdaBooster,0.004627209,"{'learning_rate': 1, 'loss': 'exponential', 'n_estimators': 200}"
+kupl1_ittc_ku_edu_nyu_d,15,GradientBoosting,0.000441221,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 20}"
+kupl1_ittc_ku_edu_pl_drl,15,GradientBoosting,0.000441266,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+kupl1_ittc_ku_edu_root,20,DNN,0.010222807,71
+lefthand_eecs_harvard_edu_princeton_codeen,4,SVR,0.003077516,"{'coef0': 0, 'degree': 18, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+lefthand_eecs_harvard_edu_tsinghua_xyz,15,SVR,0.000592628,"{'coef0': 0, 'degree': 16, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+mercury_silicon-valley_ru_irisaple_HEAP,10,DecisionTree,0.00122278,"{'max_leaf_nodes': 8, 'min_samples_leaf': 4, 'min_impurity_decrease': 7, 'presort': True, 'min_samples_split': 3, 'max_depth': 3, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+mercury_silicon-valley_ru_tsinghua_xyz,10,GradientBoosting,0.01160719,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 7, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+mercury_silicon-valley_ru_uw_oneswarm,1,AdaBooster,0.00273049,"{'learning_rate': 1, 'loss': 'linear', 'n_estimators': 200}"
+metis_mcs_suffolk_edu_tsinghua_xyz,1,AdaBooster,0.001086753,"{'learning_rate': 1, 'loss': 'exponential', 'n_estimators': 50}"
+metis_mcs_suffolk_edu_uw_oneswarm,20,DNN,0.013267385,33
+miranda_planetlab_cs_umd_edu_tsinghua_xyz,1,GradientBoosting,0.002271449,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}"
+miranda_planetlab_cs_umd_edu_uw_oneswarm,15,SVR,0.004829485,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+mtuplanetlab1_cs_mtu_edu_princeton_codeen,20,SVR,0.000684206,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+mtuplanetlab1_cs_mtu_edu_root,10,DNN,0.011153542,70
+mtuplanetlab1_cs_mtu_edu_tsinghua_xyz,3,GradientBoosting,0.000447909,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 20}"
+mtuplanetlab2_cs_mtu_edu_princeton_codeen,20,GradientBoosting,0.002151093,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+mtuplanetlab2_cs_mtu_edu_root,15,AdaBooster,0.011413878,"{'learning_rate': 0.1, 'loss': 'exponential', 'n_estimators': 10}"
+mtuplanetlab2_cs_mtu_edu_uw_oneswarm,15,DNN,0.005931297,79
+napa2_tele_pw_edu_pl_uw_oneswarm,10,SVR,0.004722671,"{'coef0': 0, 'degree': 8, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+netapp6_cs_kookmin_ac_kr_princeton_codeen,20,RandomForest,0.001539725,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 200}"
+netapp6_cs_kookmin_ac_kr_root,3,GradientBoosting,0.006068363,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 9, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}"
+netapp6_cs_kookmin_ac_kr_tsinghua_xyz,4,GradientBoosting,0.003822699,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 5, 'min_samples_leaf': 7, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 10}"
+netapp6_cs_kookmin_ac_kr_uw_oneswarm,15,AdaBooster,0.01395793,"{'learning_rate': 0.1, 'loss': 'exponential', 'n_estimators': 100}"
+netapp7_cs_kookmin_ac_kr_princeton_codeen,15,RandomForest,0.002906733,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 5, 'max_depth': None, 'n_estimators': 20}"
+netapp7_cs_kookmin_ac_kr_root,5,GradientBoosting,0.005521287,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 200}"
+netapp7_cs_kookmin_ac_kr_tsinghua_xyz,4,GradientBoosting,0.005338771,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 4, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}"
+netapp7_cs_kookmin_ac_kr_uw_oneswarm,5,SVR,0.009354281,"{'coef0': 0, 'degree': 14, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+nis-planet1_doshisha_ac_jp_uw_oneswarm,20,SVR,0.002265339,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+nis-planet2_doshisha_ac_jp_arizona_owl,20,DNN,0.018109605,77
+nis-planet2_doshisha_ac_jp_princeton_codeen,4,DNN,0.000430272,15
+nis-planet2_doshisha_ac_jp_purdue_4,15,DNN,0.020888695,77
+nis-planet2_doshisha_ac_jp_rnp_dcc_ufjf,20,DNN,0.013638212,78
+nis-planet2_doshisha_ac_jp_uw_oneswarm,20,DNN,0.001448967,92
+node-1_mcgillplanetlab_org_tsinghua_xyz,1,KNN,0.00038917,"{'algorithm': 'brute', 'p': 1, 'leaf_size': 13, 'n_neighbors': 4, 'weights': 'uniform'}"
+node-1_mcgillplanetlab_org_uw_oneswarm,15,SVR,0.003393778,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+node-2_mcgillplanetlab_org_tsinghua_xyz,20,DNN,0.000695868,82
+node-2_mcgillplanetlab_org_uw_oneswarm,20,SVR,0.002973757,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+node1_planetlab_albany_edu_princeton_codeen,3,SVR,0.007105275,"{'coef0': 0, 'degree': 18, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+node1_planetlab_albany_edu_tsinghua_xyz,20,SVR,0.000387873,"{'coef0': 0, 'degree': 16, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+node1_planetlab_albany_edu_uw_oneswarm,20,SVR,0.001606883,"{'coef0': 0, 'degree': 11, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+node2_lbnl_nodes_planet-lab_org_root,1,RandomForest,0.004599498,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': 3, 'n_estimators': 20}"
+node2_lbnl_nodes_planet-lab_org_tsinghua_xyz,20,LinearRegression,0.001897801,None
+node2_lbnl_nodes_planet-lab_org_uw_oneswarm,15,DNN,0.029880631,10
+node2_planetlab_albany_edu_irisaple_HEAP,1,AdaBooster,0.000525702,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 100}"
+node2_planetlab_albany_edu_princeton_codeen,1,DNN,0.003565938,75
+node2_planetlab_albany_edu_tsinghua_xyz,20,RandomForest,0.000513055,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 9, 'max_depth': 5, 'n_estimators': 10}"
+node2_planetlab_albany_edu_uw_oneswarm,10,SVR,0.00566203,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+node2_planetlab_mathcs_emory_edu_princeton_codeen,20,RandomForest,0.001477859,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 10, 'max_depth': 5, 'n_estimators': 100}"
+node2_planetlab_mathcs_emory_edu_root,20,RandomForest,0.006348131,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 10, 'max_depth': None, 'n_estimators': 100}"
+node2_planetlab_mathcs_emory_edu_tsinghua_xyz,2,RandomForest,0.000350829,"{'bootstrap': False, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 2, 'n_estimators': 10}"
+node2_planetlab_mathcs_emory_edu_uw_oneswarm,20,SVR,0.004545527,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+nodea_howard_edu_tsinghua_xyz,3,GradientBoosting,0.001597607,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 6, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 20}"
+nodeb_howard_edu_tsinghua_xyz,20,RandomForest,0.002340943,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 2, 'max_depth': 5, 'n_estimators': 100}"
+nodeb_howard_edu_uw_oneswarm,15,LinearRegression,0.006696656,None
+onelab-1_fhi-fokus_de_ uofathens_zoi,1,RandomForest,3.66E-05,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 10}"
+onelab-1_fhi-fokus_de_irisaple_wup,15,DNN,0.001129976,93
+onelab09_pl_sophia_inria_fr_ cwru_DNS,5,GradientBoosting,0.000175545,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 9, 'learning_rate': 1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 20}"
+onelab09_pl_sophia_inria_fr_irisaple_HEAP,20,AdaBooster,0.001612768,"{'learning_rate': 1, 'loss': 'square', 'n_estimators': 200}"
+onelab09_pl_sophia_inria_fr_irisaple_wup,10,GradientBoosting,0.001877707,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 9, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}"
+onelab09_pl_sophia_inria_fr_root,1,AdaBooster,0.015664129,"{'learning_rate': 1, 'loss': 'square', 'n_estimators': 10}"
+onelab09_pl_sophia_inria_fr_uw_oneswarm,15,GradientBoosting,0.009348935,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 3, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 200}"
+onelab10_pl_sophia_inria_fr_irisaple_HEAP,15,RandomForest,0.002573439,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 3, 'max_depth': 2, 'n_estimators': 10}"
+onelab10_pl_sophia_inria_fr_irisaple_wup,3,AdaBooster,0.000902511,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 20}"
+onelab10_pl_sophia_inria_fr_tsinghua_xyz,2,GradientBoosting,0.003012621,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}"
+onelab10_pl_sophia_inria_fr_uw_oneswarm,15,GradientBoosting,0.005104948,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 8, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 10}"
+onelab11_pl_sophia_inria_fr_irisaple_HEAP,20,GradientBoosting,0.002028956,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}"
+onelab11_pl_sophia_inria_fr_irisaple_wup,10,SVR,0.001673738,"{'coef0': 0, 'degree': 11, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+onelab11_pl_sophia_inria_fr_umn_net_tools,15,DNN,0.000195133,67
+onelab11_pl_sophia_inria_fr_uw_oneswarm,20,SVR,0.005406505,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+orval_infonet_fundp_ac_be_irisaple_HEAP,10,DNN,0.000503081,45
+orval_infonet_fundp_ac_be_irisaple_wup,5,GradientBoosting,0.000550875,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+orval_infonet_fundp_ac_be_root,10,DecisionTree,0.006877729,"{'max_leaf_nodes': 5, 'min_samples_leaf': 7, 'min_impurity_decrease': 9, 'presort': True, 'min_samples_split': 4, 'max_depth': None, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+orval_infonet_fundp_ac_be_uw_oneswarm,10,SVR,0.002776299,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+osiris_planetlab_cs_umd_edu_irisaple_HEAP,20,GradientBoosting,0.00050179,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+osiris_planetlab_cs_umd_edu_princeton_codeen,5,GradientBoosting,0.003963995,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}"
+osiris_planetlab_cs_umd_edu_root,4,GradientBoosting,0.006338446,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100}"
+osiris_planetlab_cs_umd_edu_tsinghua_xyz,15,RandomForest,0.001859602,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': None, 'n_estimators': 100}"
+osiris_planetlab_cs_umd_edu_uka_p2pns,20,AdaBooster,0.000392097,"{'learning_rate': 0.3, 'loss': 'exponential', 'n_estimators': 10}"
+osiris_planetlab_cs_umd_edu_uw_oneswarm,10,SVR,0.002226475,"{'coef0': 0, 'degree': 12, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pads21_cs_nthu_edu_tw_princeton_codeen,20,GradientBoosting,0.001465142,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 6, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}"
+pads21_cs_nthu_edu_tw_uw_oneswarm,10,SVR,0.001192126,"{'coef0': 0, 'degree': 15, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pads23_cs_nthu_edu_tw_princeton_codeen,15,SVR,0.001890582,"{'coef0': 0, 'degree': 11, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pads23_cs_nthu_edu_tw_uw_oneswarm,20,GradientBoosting,0.00157901,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 3, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 200}"
+peace_informatik_rwth-aachen_de_irisaple_wup,15,DNN,0.000252617,1
+peace_informatik_rwth-aachen_de_root,15,RandomForest,0.013934801,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_depth': 3, 'n_estimators': 20}"
+peace_informatik_rwth-aachen_de_tsinghua_xyz,1,RandomForest,0.003996431,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 6, 'max_depth': 2, 'n_estimators': 50}"
+peace_informatik_rwth-aachen_de_uw_oneswarm,20,DNN,0.018544807,23
+peeramide_irisa_fr_ethzcs_tracegatherer,20,AdaBooster,0.030853454,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 100}"
+peeramide_irisa_fr_irisaple_HEAP,4,AdaBooster,0.002193295,"{'learning_rate': 0.05, 'loss': 'linear', 'n_estimators': 20}"
+peeramide_irisa_fr_irisaple_wup,15,DNN,0.001696433,40
+peeramide_irisa_fr_root,15,DNN,0.003711264,26
+peeramide_irisa_fr_umn_net_tools,20,DNN,0.000201795,37
+peeramide_irisa_fr_uw_oneswarm,10,LinearRegression,0.003579874,None
+peeramidion_irisa_fr_irisaple_HEAP,10,DecisionTree,0.002666439,"{'max_leaf_nodes': 9, 'min_samples_leaf': 5, 'min_impurity_decrease': 1, 'presort': False, 'min_samples_split': 9, 'max_depth': 3, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+peeramidion_irisa_fr_irisaple_wup,10,AdaBooster,0.002643432,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 10}"
+peeramidion_irisa_fr_uw_oneswarm,20,SVR,0.002963882,"{'coef0': 0, 'degree': 5, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl-node-0_csl_sri_com_tsinghua_xyz,20,SVR,0.002084179,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl-node-0_csl_sri_com_uka_p2pns,15,DNN,0.000301912,99
+pl-node-0_csl_sri_com_uw_oneswarm,4,LinearRegression,0.007783971,None
+pl-node-1_csl_sri_com_irisaple_HEAP,1,GradientBoosting,0.000304957,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 20}"
+pl-node-1_csl_sri_com_tsinghua_xyz,20,SVR,0.002367286,"{'coef0': 0, 'degree': 14, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl-node-1_csl_sri_com_uw_oneswarm,20,DNN,0.008253445,39
+pl1-alblf_homeip_net_irisaple_HEAP,4,DNN,0.000635883,46
+pl1-alblf_homeip_net_irisaple_wup,4,GradientBoosting,0.000857431,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+pl1-alblf_homeip_net_root,15,RandomForest,0.007618692,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 3, 'max_depth': 2, 'n_estimators': 100}"
+pl1-alblf_homeip_net_uw_oneswarm,15,DNN,0.004033171,57
+pl1-alblf_homeip_net_uw_seattle,1,DNN,0.000632593,80
+pl1_6test_edu_cn_uka_p2pns,20,LinearRegression,0.000327114,None
+pl1_6test_edu_cn_utokyo_sora,1,GradientBoosting,0.0001555,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 1, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 10}"
+pl1_6test_edu_cn_uw_oneswarm,15,SVR,0.015805873,"{'coef0': 0, 'degree': 18, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl1_cs_yale_edu_tsinghua_xyz,2,RandomForest,0.000579132,"{'bootstrap': False, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_depth': 3, 'n_estimators': 10}"
+pl1_cs_yale_edu_uw_oneswarm,10,SVR,0.002468934,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl1_eng_monash_edu_au_root,20,DNN,0.004201419,95
+pl1_eng_monash_edu_au_tum_i2p,15,AdaBooster,0.001341227,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 10}"
+pl1_eng_monash_edu_au_uw_oneswarm,20,GradientBoosting,0.002411024,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+pl1_grid_kiae_ru_princeton_codeen,15,SVR,0.003665694,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl1_grid_kiae_ru_root,3,DNN,0.011090268,63
+pl1_grid_kiae_ru_tsinghua_xyz,20,SVR,0.004531352,"{'coef0': 0, 'degree': 16, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl1_grid_kiae_ru_uw_oneswarm,15,SVR,0.016666791,"{'coef0': 0, 'degree': 18, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl1_planet_cs_kent_edu_root,15,DNN,0.005048577,24
+pl1_planet_cs_kent_edu_uw_oneswarm,20,LinearRegression,0.009841992,None
+pl1_planetlab_uvic_ca_tsinghua_xyz,15,RandomForest,0.000711832,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 20}"
+pl1_planetlab_uvic_ca_tum_i2p,20,SVR,0.002138258,"{'coef0': 0, 'degree': 3, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl1_rcc_uottawa_ca_google_highground,20,DNN,0.00346104,51
+pl1_rcc_uottawa_ca_tsinghua_xyz,10,LinearRegression,0.000331315,None
+pl1_rcc_uottawa_ca_tum_i2p,2,RandomForest,0.001666464,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 5, 'max_depth': 2, 'n_estimators': 10}"
+pl1_rcc_uottawa_ca_uw_oneswarm,20,SVR,0.002474613,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl1_sos_info_hiroshima-cu_ac_jp_irisaple_HEAP,15,DNN,0.001448244,75
+pl1_sos_info_hiroshima-cu_ac_jp_uw_oneswarm,20,SVR,0.007711467,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl1_ucs_indiana_edu_princeton_codeen,10,SVR,0.002320866,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl1_ucs_indiana_edu_root,1,DNN,0.004760135,33
+pl1_ucs_indiana_edu_tum_i2p,4,GradientBoosting,0.001438712,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 3, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+pl1_ucs_indiana_edu_uw_oneswarm,15,SVR,0.005329672,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl2-alblf_homeip_net_irisaple_wup,5,DNN,0.00157655,7
+pl2-alblf_homeip_net_uw_oneswarm,15,SVR,0.00441931,"{'coef0': 0, 'degree': 6, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl2_6test_edu_cn_uw_oneswarm,15,DNN,0.005525053,67
+pl2_cs_yale_edu_uw_oneswarm,15,GradientBoosting,0.003123813,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 200}"
+pl2_csl_utoronto_ca_nyu_d,15,AdaBooster,0.00057862,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 10}"
+pl2_csl_utoronto_ca_princeton_codeen,15,SVR,0.008056052,"{'coef0': 0, 'degree': 5, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+pl2_csl_utoronto_ca_root,15,DNN,0.018298608,95
+pl2_csl_utoronto_ca_uw_seattle,2,GradientBoosting,0.000425834,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 10}"
+pl2_eng_monash_edu_au_irisaple_HEAP,10,RandomForest,0.000880855,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 2, 'max_depth': 5, 'n_estimators': 100}"
+pl2_eng_monash_edu_au_root,3,GradientBoosting,0.003610647,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 20}"
+pl2_eng_monash_edu_au_uw_oneswarm,15,GradientBoosting,0.005545177,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 50}"
+pl2_grid_kiae_ru_princeton_codeen,20,SVR,0.002084036,"{'coef0': 0, 'degree': 11, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl2_grid_kiae_ru_uw_oneswarm,20,SVR,0.017795766,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl2_planet_cs_kent_edu_princeton_codeen,20,GradientBoosting,0.000591877,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}"
+pl2_planet_cs_kent_edu_uw_oneswarm,10,LinearRegression,0.00975694,None
+pl2_sos_info_hiroshima-cu_ac_jp_uw_oneswarm,20,DNN,0.003868593,97
+pl2_ucs_indiana_edu_irisaple_HEAP,20,DNN,0.001310291,81
+pl2_ucs_indiana_edu_nyu_d,5,DNN,0.000408922,50
+pl2_ucs_indiana_edu_root,15,DNN,0.003791976,38
+pl2_ucs_indiana_edu_uw_oneswarm,15,LinearRegression,0.003168472,None
+pl4_unm_edu_arizona_nest,20,RandomForest,0.003660423,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 9, 'max_depth': None, 'n_estimators': 100}"
+pl4_unm_edu_arizona_owl,20,RandomForest,0.003915889,"{'bootstrap': True, 'min_samples_split': 2, 'min_samples_leaf': 9, 'max_depth': None, 'n_estimators': 200}"
+pl4_unm_edu_howard_p2psip,15,RandomForest,0.005373845,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 10, 'max_depth': 5, 'n_estimators': 100}"
+pl4_unm_edu_nyu_d,10,GradientBoosting,0.000168171,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 1, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 20}"
+pl4_unm_edu_princeton_codeen,20,DNN,0.000801211,95
+pl4_unm_edu_root,10,AdaBooster,0.003026223,"{'learning_rate': 0.1, 'loss': 'exponential', 'n_estimators': 200}"
+pl4_unm_edu_uw_oneswarm,15,SVR,0.003559487,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+pl4_unm_edu_uw_trs2,20,RandomForest,0.000702424,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 2, 'max_depth': 5, 'n_estimators': 10}"
+plab-1_sinp_msu_ru_irisaple_HEAP,2,LinearRegression,0.001631413,None
+plab-1_sinp_msu_ru_uw_oneswarm,15,DNN,0.015270401,93
+plab-1_sinp_msu_ru_uw_seattle,10,DNN,0.000651854,75
+plab-2_sinp_msu_ru_uw_oneswarm,20,SVR,0.011551797,"{'coef0': 0, 'degree': 13, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+plab1_create-net_org_uw_oneswarm,20,DNN,0.0095196,50
+plab1_cs_ust_hk_irisaple_HEAP,5,GradientBoosting,0.000930025,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 3, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 50}"
+plab1_cs_ust_hk_uw_oneswarm,20,GradientBoosting,0.002104374,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 100}"
+plab1_engr_sjsu_edu_uw_oneswarm,20,DNN,0.016514523,37
+plab1_larc_usp_br_irisaple_wup,2,GradientBoosting,0.000271046,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+plab1_larc_usp_br_uw_oneswarm,20,SVR,0.004045349,"{'coef0': 0, 'degree': 16, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+plab2_create-net_org_uw_oneswarm,10,DNN,0.007344719,4
+plab2_engr_sjsu_edu_root,1,RandomForest,0.026626131,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 9, 'max_depth': 2, 'n_estimators': 50}"
+plab2_engr_sjsu_edu_uw_oneswarm,10,SVR,0.012079393,"{'coef0': 0, 'degree': 12, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+plab2_larc_usp_br_uw_oneswarm,10,LinearRegression,0.004496956,None
+plab2_nec-labs_com_arizona_owl,15,AdaBooster,0.026339616,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 20}"
+plab2_nec-labs_com_howard_p2psip,20,AdaBooster,0.02591731,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 20}"
+plab2_nec-labs_com_nyu_d,3,GradientBoosting,0.00073667,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 7, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 20}"
+plab2_nec-labs_com_uw_oneswarm,20,DNN,0.030137038,7
+plab3_eece_ksu_edu_princeton_codeen,15,RandomForest,0.001778862,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 9, 'max_depth': None, 'n_estimators': 200}"
+plab3_eece_ksu_edu_root,4,GradientBoosting,0.009854796,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 3, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 20}"
+plab3_eece_ksu_edu_tum_i2p,1,GradientBoosting,0.001265909,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 6, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}"
+plab4_eece_ksu_edu_princeton_codeen,20,LinearRegression,0.001846815,None
+plab4_eece_ksu_edu_root,4,GradientBoosting,0.010874369,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 10}"
+plane-lab-pb1_uni-paderborn_de_princeton_codeen,20,GradientBoosting,0.001967167,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 200}"
+plane-lab-pb1_uni-paderborn_de_root,15,RandomForest,0.016735669,"{'bootstrap': False, 'min_samples_split': 2, 'min_samples_leaf': 10, 'max_depth': 2, 'n_estimators': 20}"
+plane-lab-pb2_uni-paderborn_de_irisaple_HEAP,5,SVR,0.000571581,"{'coef0': 0, 'degree': 14, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+plane-lab-pb2_uni-paderborn_de_princeton_codeen,20,SVR,0.001001418,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+plane-lab-pb2_uni-paderborn_de_root,1,DecisionTree,0.010789147,"{'max_leaf_nodes': 5, 'min_samples_leaf': 3, 'min_impurity_decrease': 7, 'presort': True, 'min_samples_split': 7, 'max_depth': 5, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+plane-lab-pb2_uni-paderborn_de_uw_oneswarm,5,LinearRegression,0.018831503,None
+planet-lab-node1_netgroup_uniroma2_it_irisaple_wup,5,DNN,0.005889195,14
+planet-lab-node1_netgroup_uniroma2_it_uw_oneswarm,10,SVR,0.008236193,"{'coef0': 0, 'degree': 3, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet-lab-node2_netgroup_uniroma2_it_uw_oneswarm,20,RandomForest,0.010784046,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_depth': 5, 'n_estimators': 50}"
+planet-lab1_cs_ucr_edu_uw_oneswarm,10,LinearRegression,0.014974469,None
+planet-lab1_ufabc_edu_br_irisaple_HEAP,20,SVR,0.001185119,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet-lab1_ufabc_edu_br_nyu_d,20,DNN,0.000245413,99
+planet-lab1_ufabc_edu_br_princeton_codeen,15,LinearRegression,0.002170129,None
+planet-lab1_ufabc_edu_br_root,10,DNN,0.019683389,40
+planet-lab1_ufabc_edu_br_uw_oneswarm,15,SVR,0.011242893,"{'coef0': 0, 'degree': 4, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet-lab2_cs_ucr_edu_upmc_ts,1,GradientBoosting,0.000175269,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 20}"
+planet-lab2_cs_ucr_edu_uw_oneswarm,10,LinearRegression,0.009621582,None
+planet-lab2_uba_ar_uw_oneswarm,10,LinearRegression,0.003541338,None
+planet01_hhi_fraunhofer_de_uw_oneswarm,20,RandomForest,0.006198697,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 9, 'max_depth': 5, 'n_estimators': 100}"
+planet03_csc_ncsu_edu_uw_oneswarm,10,SVR,0.028971983,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet0_jaist_ac_jp_nyu_d,20,DNN,0.000259005,35
+planet0_jaist_ac_jp_root,2,AdaBooster,0.015583733,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+planet11_csc_ncsu_edu_uw_oneswarm,15,SVR,0.004081131,"{'coef0': 0, 'degree': 18, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet12_csc_ncsu_edu_irisaple_HEAP,20,DNN,0.001006349,66
+planet1_att_nodes_planet-lab_org_root,15,SVR,0.013355345,"{'coef0': 0, 'degree': 11, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet1_att_nodes_planet-lab_org_uw_oneswarm,15,GradientBoosting,0.0213558,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+planet1_cs_rit_edu_princeton_codeen,20,RandomForest,0.002172318,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 6, 'max_depth': None, 'n_estimators': 50}"
+planet1_cs_rit_edu_root,5,DNN,0.004052347,73
+planet1_cs_rit_edu_uw_oneswarm,15,SVR,0.003600273,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet1_cs_rochester_edu_irisaple_HEAP,15,GradientBoosting,0.000341577,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 7, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 10}"
+planet1_cs_rochester_edu_princeton_codeen,20,SVR,0.000971983,"{'coef0': 0, 'degree': 8, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet1_cs_rochester_edu_uw_oneswarm,15,DNN,0.002061088,94
+planet1_jaist_ac_jp_nyu_d,15,SVR,0.000361237,"{'coef0': 0, 'degree': 11, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet1_jaist_ac_jp_root,3,DNN,0.013554845,64
+planet1_jaist_ac_jp_uw_oneswarm,20,DNN,0.022264422,75
+planet1_l3s_uni-hannover_de_nyu_d,15,RandomForest,0.000999743,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 10, 'max_depth': None, 'n_estimators': 20}"
+planet1_l3s_uni-hannover_de_root,20,DNN,0.011838287,15
+planet1_l3s_uni-hannover_de_utokyo_sora,20,DNN,0.00010021,57
+planet1_pnl_nitech_ac_jp_uw_oneswarm,15,LinearRegression,0.007753038,None
+planet1_prakinf_tu-ilmenau_de_princeton_codeen,15,DNN,0.012031604,11
+planet1_prakinf_tu-ilmenau_de_root,20,AdaBooster,0.01389903,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 20}"
+planet1_scs_cs_nyu_edu_irisaple_HEAP,15,GradientBoosting,0.001399935,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 10, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 200}"
+planet1_scs_cs_nyu_edu_nyu_d,5,GradientBoosting,0.000311253,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 4, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 20}"
+planet1_scs_cs_nyu_edu_princeton_codeen,20,SVR,0.003390895,"{'coef0': 0, 'degree': 6, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet1_scs_cs_nyu_edu_root,20,RandomForest,0.007799314,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 6, 'max_depth': 2, 'n_estimators': 50}"
+planet1_scs_cs_nyu_edu_uw_oneswarm,15,SVR,0.004213547,"{'coef0': 0, 'degree': 18, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet1_servers_ua_pt_irisaple_HEAP,10,DNN,0.001033724,96
+planet1_servers_ua_pt_irisaple_wup,5,DNN,0.00168104,12
+planet1_servers_ua_pt_uw_oneswarm,10,GradientBoosting,0.00409583,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 100}"
+planet2_att_nodes_planet-lab_org_root,15,DNN,0.011910611,43
+planet2_att_nodes_planet-lab_org_uw_oneswarm,15,DNN,0.017850576,66
+planet2_att_nodes_planet-lab_org_uw_seattle,3,GradientBoosting,0.000365434,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 6, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+planet2_cc_gt_atl_ga_us_nyu_d,5,SVR,0.000718637,"{'coef0': 0, 'degree': 8, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet2_cc_gt_atl_ga_us_root,15,GradientBoosting,0.001046717,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 50}"
+planet2_colbud_hu_root,4,GradientBoosting,0.015498026,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'quantile', 'max_leaf_nodes': 4, 'min_samples_leaf': 4, 'learning_rate': 1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 200}"
+planet2_cs_rochester_edu_irisaple_wup,1,DNN,0.000426388,57
+planet2_cs_rochester_edu_uw_oneswarm,10,SVR,0.003757915,"{'coef0': 0, 'degree': 11, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet2_inf_tu-dresden_de_nyu_d,5,SVR,0.001075909,"{'coef0': 0, 'degree': 7, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet2_inf_tu-dresden_de_princeton_codeen,15,GradientBoosting,0.004098545,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 50}"
+planet2_inf_tu-dresden_de_root,15,SVR,0.002033842,"{'coef0': 0, 'degree': 3, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet2_inf_tu-dresden_de_uw_oneswarm,15,SVR,0.016768797,"{'coef0': 0, 'degree': 8, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet2_pnl_nitech_ac_jp_uw_oneswarm,15,RandomForest,0.010073313,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 7, 'max_depth': None, 'n_estimators': 50}"
+planet2_prakinf_tu-ilmenau_de_nyu_d,15,GradientBoosting,0.000473729,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 3, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 10}"
+planet2_prakinf_tu-ilmenau_de_princeton_codeen,10,DNN,0.005494101,52
+planet2_prakinf_tu-ilmenau_de_root,15,GradientBoosting,0.004802802,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+planet2_prakinf_tu-ilmenau_de_uw_oneswarm,10,RandomForest,0.004729224,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 50}"
+planet2_scs_stanford_edu_howard_p2psip,10,AdaBooster,0.002371145,"{'learning_rate': 0.1, 'loss': 'square', 'n_estimators': 200}"
+planet2_scs_stanford_edu_nyu_d,10,AdaBooster,0.000503335,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 50}"
+planet2_scs_stanford_edu_princeton_codeen,20,DNN,0.000656209,51
+planet2_scs_stanford_edu_root,15,SVR,0.006005074,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet2_scs_stanford_edu_uw_oneswarm,15,DNN,0.002077472,21
+planet2_scs_stanford_edu_uw_seattle,15,DNN,0.000312241,72
+planet2_servers_ua_pt_irisaple_HEAP,3,LinearRegression,0.001445968,None
+planet2_servers_ua_pt_irisaple_wup,10,GradientBoosting,0.001050048,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 3, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 20}"
+planet2_servers_ua_pt_uw_oneswarm,15,SVR,0.003450242,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet3_cc_gt_atl_ga_us_nyu_d,15,RandomForest,0.000825899,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 3, 'max_depth': 3, 'n_estimators': 20}"
+planet3_cs_ucsb_edu_princeton_codeen,20,GradientBoosting,0.002221906,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}"
+planet3_cs_ucsb_edu_root,5,RandomForest,0.012411713,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 9, 'max_depth': 2, 'n_estimators': 200}"
+planet3_cs_ucsb_edu_uw_oneswarm,15,LinearRegression,0.011871927,None
+planet3_prakinf_tu-ilmenau_de_nyu_d,20,DNN,0.000320676,16
+planet3_prakinf_tu-ilmenau_de_root,5,GradientBoosting,0.005112945,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 100}"
+planet3_prakinf_tu-ilmenau_de_uw_oneswarm,20,SVR,0.002746124,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planet4_cc_gt_atl_ga_us_nyu_d,1,GradientBoosting,0.00054546,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 50}"
+planet4_cc_gt_atl_ga_us_root,20,GradientBoosting,0.000933769,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 5, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}"
+planet4_cs_ucsb_edu_princeton_codeen,10,GradientBoosting,0.001869567,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 200}"
+planet4_cs_ucsb_edu_root,3,GradientBoosting,0.000374605,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 20}"
+planet4_cs_ucsb_edu_upmc_ts,20,AdaBooster,0.008354449,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 10}"
+planet4_cs_ucsb_edu_uw_oneswarm,20,DNN,0.003647544,64
+planet5_cs_ucsb_edu_irisaple_HEAP,5,SVR,0.000668469,"{'coef0': 0, 'degree': 10, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet5_cs_ucsb_edu_uw_oneswarm,20,RandomForest,0.018730356,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 200}"
+planet6_cs_ucsb_edu_ rnp_dcc_ufjf,15,SVR,0.001320031,"{'coef0': 0, 'degree': 13, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet6_cs_ucsb_edu_irisaple_HEAP,20,DNN,0.000399352,89
+planet6_cs_ucsb_edu_irisaple_wup,15,SVR,0.000447475,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planet6_cs_ucsb_edu_root,1,GradientBoosting,0.003627965,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 5, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 50}"
+planet6_cs_ucsb_edu_uw_oneswarm,10,SVR,0.007747613,"{'coef0': 0, 'degree': 15, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetdev02_fm_intel_com_root,20,DNN,0.004448411,76
+planetdev02_fm_intel_com_uw_oneswarm,20,SVR,0.00472017,"{'coef0': 0, 'degree': 16, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-01_cs_princeton_edu_nyu_d,3,GradientBoosting,0.000482525,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab-01_cs_princeton_edu_root,10,SVR,0.005523509,"{'coef0': 0, 'degree': 7, 'kernel': 'poly', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-01_kusa_ac_jp_irisaple_HEAP,20,GradientBoosting,0.000770066,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 9, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-01_kusa_ac_jp_root,10,DNN,0.0076373,79
+planetlab-01_kusa_ac_jp_uw_oneswarm,15,SVR,0.014414234,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-01_vt_nodes_planet-lab_org_root,4,LinearRegression,0.007480706,None
+planetlab-01_vt_nodes_planet-lab_org_uw_oneswarm,15,DNN,0.002672781,14
+planetlab-02_kusa_ac_jp_irisaple_HEAP,10,DNN,0.001659595,76
+planetlab-02_kusa_ac_jp_nyu_d,15,RandomForest,0.00019809,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 1, 'max_depth': 2, 'n_estimators': 200}"
+planetlab-02_kusa_ac_jp_root,3,GradientBoosting,0.006631998,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab-02_kusa_ac_jp_uw_oneswarm,15,SVR,0.022875978,"{'coef0': 0, 'degree': 5, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-02_vt_nodes_planet-lab_org_uw_oneswarm,20,SVR,0.004804596,"{'coef0': 0, 'degree': 16, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-03_vt_nodes_planet-lab_org_irisaple_HEAP,2,DNN,0.00063863,44
+planetlab-03_vt_nodes_planet-lab_org_uw_oneswarm,5,GradientBoosting,0.004752058,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 7, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 200}"
+planetlab-04_cs_princeton_edu_clemson_kangc,20,DNN,0.000141003,54
+planetlab-04_cs_princeton_edu_nyu_d,15,SVR,0.000706974,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-04_cs_princeton_edu_root,20,GradientBoosting,0.002940419,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab-04_cs_princeton_edu_uw_oneswarm,10,LinearRegression,0.014928099,None
+planetlab-04_vt_nodes_planet-lab_org_irisaple_HEAP,15,DecisionTree,0.000374728,"{'max_leaf_nodes': 3, 'min_samples_leaf': 8, 'min_impurity_decrease': 10, 'presort': False, 'min_samples_split': 5, 'max_depth': 2, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab-04_vt_nodes_planet-lab_org_uw_oneswarm,3,DNN,0.000286736,11
+planetlab-05_cs_princeton_edu_clemson_kangc,15,GradientBoosting,0.000134772,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab-05_cs_princeton_edu_princeton_comon,20,AdaBooster,0.000211603,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 20}"
+planetlab-05_cs_princeton_edu_utokyo_sora,2,DNN,0.00012272,22
+planetlab-05_cs_princeton_edu_uw_oneswarm,15,SVR,0.010103546,"{'coef0': 0, 'degree': 13, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-06_cs_princeton_edu_irisaple_HEAP,1,AdaBooster,0.000338517,"{'learning_rate': 0.3, 'loss': 'exponential', 'n_estimators': 20}"
+planetlab-06_cs_princeton_edu_utokyo_sora,2,DNN,0.00012706,2
+planetlab-1_amst_nodes_planet-lab_org_rnp_dcc_ufjf,20,DNN,0.01173977,55
+planetlab-1_amst_nodes_planet-lab_org_root,20,DNN,0.00327868,97
+planetlab-1_amst_nodes_planet-lab_org_uw_oneswarm,20,LinearRegression,0.007939018,None
+planetlab-1_amst_nodes_planet-lab_org_uw_seattle,3,GradientBoosting,0.000782901,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 9, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-1_calpoly-netlab_net_irisaple_wup,10,GradientBoosting,0.000300983,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab-1_calpoly-netlab_net_uw_oneswarm,15,LinearRegression,0.001929018,None
+planetlab-1_cmcl_cs_cmu_edu_uw_oneswarm,15,DNN,0.016053601,60
+planetlab-1_cs_auckland_ac_nz_uka_p2pns,5,DNN,0.000486501,41
+planetlab-1_cs_auckland_ac_nz_uw_oneswarm,20,GradientBoosting,0.003882025,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 7, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab-1_cs_colostate_edu_irisaple_HEAP,2,DNN,0.000844732,76
+planetlab-1_cs_colostate_edu_princeton_codeen,15,SVR,0.002786691,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-1_cs_colostate_edu_uw_oneswarm,10,LinearRegression,0.010449439,None
+planetlab-1_cs_uh_edu_due_test,20,SVR,0.016111293,"{'coef0': 0, 'degree': 19, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-1_cs_uh_edu_irisaple_HEAP,5,DNN,0.001219979,20
+planetlab-1_cs_uh_edu_uw_oneswarm,20,LinearRegression,0.012175245,None
+planetlab-1_cs_uic_edu_ rnp_dcc_ufjf,15,GradientBoosting,0.002048721,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-1_cs_uic_edu_root,20,RandomForest,0.019313971,"{'bootstrap': False, 'min_samples_split': 10, 'min_samples_leaf': 6, 'max_depth': 2, 'n_estimators': 10}"
+planetlab-1_cs_uic_edu_uw_oneswarm,20,SVR,0.004061764,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-1_cs_unibas_ch_irisaple_HEAP,3,GradientBoosting,0.001038196,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 6, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab-1_cs_unibas_ch_irisaple_wup,20,DNN,0.002036288,47
+planetlab-1_cs_unibas_ch_root,20,DNN,0.01149128,65
+planetlab-1_cs_unibas_ch_uw_oneswarm,15,LinearRegression,0.003882212,None
+planetlab-1_cse_ohio-state_edu_nyu_d,20,DNN,0.000263493,40
+planetlab-1_cse_ohio-state_edu_pl_drl,20,DNN,0.001434062,85
+planetlab-1_elisa_cpsc_ucalgary_ca_ uofathens_zoi,15,DNN,4.92E-05,57
+planetlab-1_elisa_cpsc_ucalgary_ca_uw_oneswarm,10,LinearRegression,0.006621566,None
+planetlab-1_imperial_ac_uk_nyu_d,15,LinearRegression,0.000821793,None
+planetlab-1_ing_unimo_it_irisaple_HEAP,1,DNN,0.001421307,77
+planetlab-1_ing_unimo_it_irisaple_wup,3,DNN,0.001398117,72
+planetlab-1_ing_unimo_it_uw_oneswarm,15,SVR,0.003032642,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-1_sjtu_edu_cn_irisaple_HEAP,5,GradientBoosting,0.000335797,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 10, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab-1_sjtu_edu_cn_uka_p2pns,10,RandomForest,0.000196497,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 5, 'max_depth': 2, 'n_estimators': 10}"
+planetlab-1_sjtu_edu_cn_uw_oneswarm,20,DNN,0.005618905,22
+planetlab-1_ssvl_kth_se_root,20,DNN,0.013149475,45
+planetlab-1_ssvl_kth_se_uw_oneswarm,15,RandomForest,0.02040651,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 2, 'max_depth': None, 'n_estimators': 100}"
+planetlab-1_sysu_edu_cn_uw_oneswarm,10,DNN,0.003908958,77
+planetlab-1_tagus_ist_utl_pt_nyu_d,2,LinearRegression,0.001724242,None
+planetlab-1_tagus_ist_utl_pt_root,20,DNN,0.01650876,91
+planetlab-1_tagus_ist_utl_pt_uw_oneswarm,5,GradientBoosting,0.000523199,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 7, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab-1_webedu_ccu_edu_tw_root,3,AdaBooster,0.005494971,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 20}"
+planetlab-1_webedu_ccu_edu_tw_uw_oneswarm,15,SVR,0.001905896,"{'coef0': 0, 'degree': 6, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_calpoly-netlab_net_delft_snprivacy,1,DNN,0.000539908,54
+planetlab-2_calpoly-netlab_net_irisaple_HEAP,15,AdaBooster,0.000250866,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 100}"
+planetlab-2_calpoly-netlab_net_uw_oneswarm,15,RandomForest,0.003936175,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 9, 'max_depth': None, 'n_estimators': 100}"
+planetlab-2_cs_auckland_ac_nz_uw_oneswarm,15,SVR,0.004508088,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_cs_colostate_edu_irisaple_HEAP,15,GradientBoosting,0.000551809,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab-2_cs_colostate_edu_princeton_codeen,20,LinearRegression,0.004992368,None
+planetlab-2_cs_colostate_edu_root,3,RandomForest,0.016225356,"{'bootstrap': False, 'min_samples_split': 3, 'min_samples_leaf': 3, 'max_depth': 2, 'n_estimators': 20}"
+planetlab-2_cs_colostate_edu_uw_oneswarm,15,SVR,0.003739186,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_cs_ucy_ac_cy_uw_oneswarm,3,LinearRegression,0.003662782,None
+planetlab-2_cs_ucy_ac_cy_uw_seattle,1,GradientBoosting,0.00059008,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-2_cs_uh_edu_uw_oneswarm,20,DNN,0.014581079,66
+planetlab-2_cs_uic_edu_irisaple_HEAP,4,GradientBoosting,0.000753528,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 6, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab-2_cs_uic_edu_irisaple_wup,15,DNN,0.001179826,69
+planetlab-2_cs_uic_edu_uw_oneswarm,20,SVR,0.00537801,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-2_cs_unibas_ch_irisaple_HEAP,2,DecisionTree,0.000785623,"{'max_leaf_nodes': 2, 'min_samples_leaf': 7, 'min_impurity_decrease': 8, 'presort': True, 'min_samples_split': 6, 'max_depth': 3, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab-2_cs_unibas_ch_irisaple_wup,15,DNN,0.00139707,90
+planetlab-2_cs_unibas_ch_root,5,AdaBooster,0.003685483,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 10}"
+planetlab-2_cs_unibas_ch_umn_net_tools,20,AdaBooster,0.000208492,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 200}"
+planetlab-2_cs_unibas_ch_uw_oneswarm,15,SVR,0.003590987,"{'coef0': 0, 'degree': 8, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_cse_ohio-state_edu_princeton_codeen,15,SVR,0.003026048,"{'coef0': 0, 'degree': 4, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_cse_ohio-state_edu_root,1,GradientBoosting,0.017635051,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab-2_elisa_cpsc_ucalgary_ca_uw_oneswarm,10,SVR,0.005971091,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-2_fokus_fraunhofer_de_princeton_codeen,15,LinearRegression,0.005309116,None
+planetlab-2_fokus_fraunhofer_de_root,15,GradientBoosting,0.005041358,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 8, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab-2_fokus_fraunhofer_de_uw_oneswarm,15,GradientBoosting,0.011139188,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 200}"
+planetlab-2_imperial_ac_uk_nyu_d,10,DNN,0.00109509,68
+planetlab-2_ing_unimo_it_irisaple_HEAP,20,RandomForest,0.002268458,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 10, 'max_depth': 2, 'n_estimators': 100}"
+planetlab-2_ing_unimo_it_uw_oneswarm,15,LinearRegression,0.003593119,None
+planetlab-2_pdl_nudt_edu_cn_uw_oneswarm,20,SVR,0.003475906,"{'coef0': 0, 'degree': 19, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-2_sjtu_edu_cn_uw_oneswarm,15,DNN,0.006237445,86
+planetlab-2_ssvl_kth_se_arizona_owl,15,DNN,0.005696658,90
+planetlab-2_ssvl_kth_se_howard_p2psip,20,DNN,0.005432804,95
+planetlab-2_ssvl_kth_se_root,20,DNN,0.005192452,78
+planetlab-2_ssvl_kth_se_uw_oneswarm,15,DNN,0.00748559,32
+planetlab-2_sysu_edu_cn_uw_oneswarm,15,DNN,0.002477584,60
+planetlab-2_webedu_ccu_edu_tw_irisaple_HEAP,4,GradientBoosting,0.001237777,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 9, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab-2_webedu_ccu_edu_tw_uw_oneswarm,20,SVR,0.004214466,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-3_cmcl_cs_cmu_edu_arizona_nest,15,GradientBoosting,0.010370901,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab-3_cmcl_cs_cmu_edu_arizona_owl,10,GradientBoosting,0.010330283,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 10, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 100}"
+planetlab-3_cmcl_cs_cmu_edu_root,4,RandomForest,0.033409374,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 8, 'max_depth': 2, 'n_estimators': 50}"
+planetlab-3_cmcl_cs_cmu_edu_uw_oneswarm,15,DNN,0.011871759,96
+planetlab-3_cmcl_cs_cmu_edu_uw_trs2,15,RandomForest,0.001187384,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_depth': 3, 'n_estimators': 100}"
+planetlab-4_eecs_cwru_edu_uw_oneswarm,5,GradientBoosting,0.001965569,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 10, 'min_samples_leaf': 4, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-4_imperial_ac_uk_irisaple_HEAP,4,DecisionTree,0.001352927,"{'max_leaf_nodes': 8, 'min_samples_leaf': 10, 'min_impurity_decrease': 5, 'presort': False, 'min_samples_split': 9, 'max_depth': 5, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab-4_imperial_ac_uk_root,15,DNN,0.000401446,61
+planetlab-4_imperial_ac_uk_uw_oneswarm,20,SVR,0.005834491,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-5_eecs_cwru_edu_irisaple_HEAP,4,LinearRegression,0.000969318,None
+planetlab-5_eecs_cwru_edu_princeton_codeen,20,GradientBoosting,0.004063479,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab-europe-07_ipv6_lip6_fr_irisaple_HEAP,20,DNN,0.000366525,23
+planetlab-europe-07_ipv6_lip6_fr_irisaple_wup,20,DNN,0.000457424,48
+planetlab-europe-07_ipv6_lip6_fr_root,20,DecisionTree,0.006035278,"{'max_leaf_nodes': 5, 'min_samples_leaf': 9, 'min_impurity_decrease': 8, 'presort': False, 'min_samples_split': 2, 'max_depth': 3, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab-europe-07_ipv6_lip6_fr_uw_oneswarm,15,SVR,0.00287928,"{'coef0': 0, 'degree': 19, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab-n1_wand_net_nz_uw_oneswarm,15,LinearRegression,0.006027265,None
+planetlab-n2_wand_net_nz_uw_oneswarm,15,LinearRegression,0.004007594,None
+planetlab-node1_it-sudparis_eu_irisaple_wup,20,DNN,0.001019919,31
+planetlab-node1_it-sudparis_eu_root,10,DNN,0.004761146,80
+planetlab-node1_it-sudparis_eu_tum_i2p,15,AdaBooster,0.001603277,"{'learning_rate': 0.3, 'loss': 'square', 'n_estimators': 20}"
+planetlab-node1_it-sudparis_eu_uw_oneswarm,10,SVR,0.007785048,"{'coef0': 0, 'degree': 6, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab-node3_it-sudparis_eu_irisaple_HEAP,4,AdaBooster,0.001106732,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 100}"
+planetlab-node3_it-sudparis_eu_irisaple_wup,3,GradientBoosting,0.003437712,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 5, 'min_samples_leaf': 2, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab-node3_it-sudparis_eu_uw_oneswarm,15,LinearRegression,0.003350741,None
+planetlab-wifi-01_ipv6_lip6_fr_irisaple_HEAP,4,DecisionTree,0.002091499,"{'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'min_impurity_decrease': 9, 'presort': False, 'min_samples_split': 2, 'max_depth': 2, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+planetlab-wifi-01_ipv6_lip6_fr_irisaple_wup,1,GradientBoosting,0.002693903,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab-wifi-01_ipv6_lip6_fr_root,10,DNN,0.009716114,55
+planetlab-wifi-01_ipv6_lip6_fr_uw_oneswarm,10,GradientBoosting,0.003532331,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 6, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 200}"
+planetlab01_cs_tcd_ie_google_highground,20,DNN,0.007492956,68
+planetlab01_cs_tcd_ie_irisaple_HEAP,10,GradientBoosting,0.000118726,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab01_cs_tcd_ie_rnp_dcc_ufjf,10,DNN,0.007982774,68
+planetlab01_cs_tcd_ie_root,15,DNN,0.034777634,35
+planetlab01_tkn_tu-berlin_de_root,15,AdaBooster,0.001565808,"{'learning_rate': 0.3, 'loss': 'linear', 'n_estimators': 20}"
+planetlab01_tkn_tu-berlin_de_uw_oneswarm,15,DNN,0.011912699,11
+planetlab02_cs_tcd_ie_google_highground,10,AdaBooster,0.011647634,"{'learning_rate': 1, 'loss': 'linear', 'n_estimators': 200}"
+planetlab02_cs_tcd_ie_princeton_codeen,15,SVR,0.002248945,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab02_cs_washington_edu_root,20,DecisionTree,0.033655224,"{'max_leaf_nodes': 7, 'min_samples_leaf': 5, 'min_impurity_decrease': 6, 'presort': False, 'min_samples_split': 7, 'max_depth': None, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab02_just_edu_jo_google_highground,5,SVR,0.003952448,"{'coef0': 0, 'degree': 15, 'kernel': 'poly', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab02_just_edu_jo_irisaple_HEAP,3,GradientBoosting,0.001258858,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab02_just_edu_jo_uw_oneswarm,20,SVR,0.003003534,"{'coef0': 0, 'degree': 3, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab02_sys_virginia_edu_princeton_codeen,5,AdaBooster,0.009205033,"{'learning_rate': 0.1, 'loss': 'exponential', 'n_estimators': 10}"
+planetlab03_cnds_unibe_ch_root,10,DNN,0.000336443,44
+planetlab03_cnds_unibe_ch_uw_oneswarm,20,SVR,0.003615286,"{'coef0': 0, 'degree': 16, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab04_cnds_unibe_ch_princeton_codeen,20,GradientBoosting,0.005568637,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 8, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab04_cnds_unibe_ch_root,4,DNN,0.012221773,41
+planetlab04_cnds_unibe_ch_uw_oneswarm,10,SVR,0.00361722,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab04_mpi-sws_mpg_de_nyu_d,20,AdaBooster,0.000904475,"{'learning_rate': 0.05, 'loss': 'linear', 'n_estimators': 100}"
+planetlab05_cs_washington_edu_uw_oneswarm,15,SVR,0.004745291,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab05_mpi-sws_mpg_de_nyu_d,4,GradientBoosting,0.001139642,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab06_mpi-sws_mpg_de_nyu_d,20,DNN,0.001155958,10
+planetlab06_mpi-sws_mpg_de_princeton_codeen,4,GradientBoosting,0.003261186,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 7, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab06_mpi-sws_mpg_de_root,20,DecisionTree,0.024466149,"{'max_leaf_nodes': 3, 'min_samples_leaf': 3, 'min_impurity_decrease': 3, 'presort': False, 'min_samples_split': 5, 'max_depth': None, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab06_mpi-sws_mpg_de_uka_p2pns,15,DNN,0.000229825,21
+planetlab0_dojima_wide_ad_jp_root,20,DNN,0.006396718,69
+planetlab0_otemachi_wide_ad_jp_irisaple_wup,20,RandomForest,0.000948237,"{'bootstrap': False, 'min_samples_split': 7, 'min_samples_leaf': 2, 'max_depth': 5, 'n_estimators': 50}"
+planetlab0_otemachi_wide_ad_jp_nyu_d,15,DNN,0.000540612,87
+planetlab1-buenosaires_lan_redclara_net_root,20,DNN,0.005654207,56
+planetlab1-santiago_lan_redclara_net_google_highground,5,AdaBooster,0.00053847,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+planetlab1-santiago_lan_redclara_net_irisaple_HEAP,2,GradientBoosting,0.001212321,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab1-santiago_lan_redclara_net_irisaple_wup,1,DNN,0.001345385,94
+planetlab1-santiago_lan_redclara_net_uw_oneswarm,20,DNN,0.0201579,14
+planetlab1-tijuana_lan_redclara_net_root,5,GradientBoosting,0.017650924,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'quantile', 'max_leaf_nodes': 3, 'min_samples_leaf': 9, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab1-tijuana_lan_redclara_net_uw_oneswarm,15,DNN,0.013264621,58
+planetlab10_millennium_berkeley_edu_nyu_d,3,DNN,0.000766877,47
+planetlab10_millennium_berkeley_edu_princeton_codeen,15,AdaBooster,0.003057407,"{'learning_rate': 1, 'loss': 'exponential', 'n_estimators': 200}"
+planetlab10_millennium_berkeley_edu_uw_oneswarm,15,RandomForest,0.008146616,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_depth': None, 'n_estimators': 200}"
+planetlab16_millennium_berkeley_edu_princeton_codeen,10,RandomForest,0.002953728,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 7, 'max_depth': None, 'n_estimators': 50}"
+planetlab16_millennium_berkeley_edu_uw_oneswarm,10,LinearRegression,0.006273187,None
+planetlab1_acis_ufl_edu_tum_i2p,20,DecisionTree,0.001723951,"{'max_leaf_nodes': 7, 'min_samples_leaf': 10, 'min_impurity_decrease': 2, 'presort': False, 'min_samples_split': 2, 'max_depth': None, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab1_bgu_ac_il_princeton_codeen,10,DNN,0.001075059,11
+planetlab1_bgu_ac_il_uw_oneswarm,20,SVR,0.004763447,"{'coef0': 0, 'degree': 8, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_bupt_edu_cn_uw_oneswarm,20,DNN,0.002206085,56
+planetlab1_byu_edu_root,10,DNN,0.023984915,15
+planetlab1_byu_edu_uw_oneswarm,20,SVR,0.002997516,"{'coef0': 0, 'degree': 15, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_comp_nus_edu_sg_princeton_codeen,2,SVR,0.000844434,"{'coef0': 0, 'degree': 3, 'kernel': 'poly', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_comp_nus_edu_sg_uw_trs2,10,DNN,0.009752391,23
+planetlab1_cs_du_edu_uka_p2pns,1,RandomForest,0.000146458,"{'bootstrap': False, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_depth': None, 'n_estimators': 200}"
+planetlab1_cs_du_edu_uw_oneswarm,20,GradientBoosting,0.001638873,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab1_cs_otago_ac_nz_uw_oneswarm,10,LinearRegression,0.010081152,None
+planetlab1_cs_pitt_edu_uka_p2pns,4,DNN,0.000146832,46
+planetlab1_cs_pitt_edu_uw_oneswarm,10,SVR,0.005525699,"{'coef0': 0, 'degree': 16, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_cs_purdue_edu_princeton_codeen,20,RandomForest,0.00907217,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 10, 'max_depth': 3, 'n_estimators': 20}"
+planetlab1_cs_purdue_edu_root,20,RandomForest,0.033087535,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_depth': 5, 'n_estimators': 10}"
+planetlab1_cs_stevens-tech_edu_root,15,AdaBooster,0.048474905,"{'learning_rate': 0.3, 'loss': 'square', 'n_estimators': 20}"
+planetlab1_cs_ucl_ac_uk_nyu_d,20,GradientBoosting,0.000243273,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab1_cs_ucl_ac_uk_root,3,RandomForest,0.00625308,"{'bootstrap': False, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_depth': 5, 'n_estimators': 200}"
+planetlab1_cs_ucl_ac_uk_uw_oneswarm,20,GradientBoosting,0.008220898,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 6, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab1_cs_ucla_edu_princeton_codeen,15,GradientBoosting,0.001795273,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 200}"
+planetlab1_cs_ucla_edu_root,4,GradientBoosting,0.015924855,"{'min_samples_split': 9, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 3, 'learning_rate': 1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab1_cs_ucla_edu_uw_oneswarm,15,LinearRegression,0.005373698,None
+planetlab1_cs_uit_no_princeton_codeen,15,GradientBoosting,0.004624668,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 8, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 200}"
+planetlab1_cs_uit_no_root,1,GradientBoosting,0.000370435,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab1_cs_uml_edu_uw_oneswarm,20,SVR,0.004820972,"{'coef0': 0, 'degree': 14, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_cs_unc_edu_nyu_d,4,DNN,0.000654407,11
+planetlab1_cs_unc_edu_princeton_codeen,20,DNN,0.00433109,64
+planetlab1_cs_uoi_gr_root,15,DNN,0.023793119,66
+planetlab1_cs_uoregon_edu_uka_p2pns,4,AdaBooster,0.00014413,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 10}"
+planetlab1_cs_vu_nl_uw_oneswarm,10,SVR,0.003459061,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_csg_uzh_ch_nyu_d,2,LinearRegression,0.001401679,None
+planetlab1_csuohio_edu_uw_oneswarm,20,DNN,0.009432115,66
+planetlab1_dojima_wide_ad_jp_irisaple_HEAP,10,DNN,0.00172395,70
+planetlab1_dojima_wide_ad_jp_rnp_dcc_ufjf,5,AdaBooster,0.000264387,"{'learning_rate': 1, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab1_dojima_wide_ad_jp_root,3,DNN,0.000578372,87
+planetlab1_eas_asu_edu_irisaple_HEAP,1,DNN,0.000764699,6
+planetlab1_eas_asu_edu_nyu_d,20,DNN,0.000175267,25
+planetlab1_eas_asu_edu_princeton_codeen,20,AdaBooster,0.005250569,"{'learning_rate': 1, 'loss': 'square', 'n_estimators': 50}"
+planetlab1_eas_asu_edu_princeton_contdist,5,AdaBooster,0.004659597,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 200}"
+planetlab1_eas_asu_edu_root,20,DecisionTree,0.000498101,"{'max_leaf_nodes': 3, 'min_samples_leaf': 8, 'min_impurity_decrease': 10, 'presort': True, 'min_samples_split': 4, 'max_depth': 5, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab1_eas_asu_edu_uw_oneswarm,15,LinearRegression,0.006751469,None
+planetlab1_ecs_vuw_ac_nz_irisaple_HEAP,1,DNN,0.000735584,93
+planetlab1_ecs_vuw_ac_nz_root,5,DNN,0.002382276,12
+planetlab1_ecs_vuw_ac_nz_uw_oneswarm,20,GradientBoosting,0.005932837,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 5, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab1_eecs_ucf_edu_princeton_codeen,20,SVR,0.000562464,"{'coef0': 0, 'degree': 13, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_eecs_ucf_edu_root,3,GradientBoosting,0.00478061,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab1_eecs_ucf_edu_uw_oneswarm,20,SVR,0.012735786,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_eecs_wsu_edu_google_highground,20,GradientBoosting,0.012863579,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab1_eecs_wsu_edu_princeton_codeen,20,SVR,0.002905139,"{'coef0': 0, 'degree': 7, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_eecs_wsu_edu_root,1,GradientBoosting,0.007582228,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 10, 'learning_rate': 1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab1_eecs_wsu_edu_uw_oneswarm,15,SVR,0.003553362,"{'coef0': 0, 'degree': 12, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_eee_hku_hk_princeton_codeen,15,LinearRegression,0.000856039,None
+planetlab1_eee_hku_hk_root,4,RandomForest,0.014781461,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 6, 'max_depth': 5, 'n_estimators': 200}"
+planetlab1_engr_uconn_edu_nyu_d,20,DNN,0.000569286,56
+planetlab1_eurecom_fr_root,5,GradientBoosting,0.015143166,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 5, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab1_eurecom_fr_uw_oneswarm,20,RandomForest,0.002710172,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_depth': None, 'n_estimators': 100}"
+planetlab1_exp-math_uni-essen_de_root,15,DNN,0.018946182,54
+planetlab1_fem_tu-ilmenau_de_utokyo_sora,20,LinearRegression,0.000135685,None
+planetlab1_georgetown_edu_root,4,LinearRegression,0.016802108,None
+planetlab1_georgetown_edu_uw_oneswarm,15,GradientBoosting,0.010257547,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 6, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab1_hiit_fi_nyu_d,15,RandomForest,0.000799577,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 3, 'max_depth': 5, 'n_estimators': 50}"
+planetlab1_hiit_fi_root,1,GradientBoosting,0.021419923,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 200}"
+planetlab1_hiit_fi_uka_p2pns,2,DNN,0.000155793,27
+planetlab1_hiit_fi_utokyo_sora,1,AdaBooster,0.000144573,"{'learning_rate': 0.05, 'loss': 'square', 'n_estimators': 200}"
+planetlab1_iii_u-tokyo_ac_jp_nyu_d,15,RandomForest,0.000666408,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 5, 'max_depth': 5, 'n_estimators': 50}"
+planetlab1_iii_u-tokyo_ac_jp_princeton_codeen,10,SVR,0.00369522,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_iii_u-tokyo_ac_jp_root,20,DNN,0.021292969,46
+planetlab1_iii_u-tokyo_ac_jp_uka_p2pns,4,SVR,0.000213643,"{'coef0': 0, 'degree': 3, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_iii_u-tokyo_ac_jp_uw_oneswarm,15,DNN,0.016341061,10
+planetlab1_iii_u-tokyo_ac_jp_uw_seattle,15,SVR,0.000177664,"{'coef0': 0, 'degree': 10, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_iis_sinica_edu_tw_nyu_d,5,GradientBoosting,0.000458747,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab1_iis_sinica_edu_tw_princeton_codeen,5,SVR,0.001351649,"{'coef0': 0, 'degree': 4, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_iis_sinica_edu_tw_rnp_dcc_ufjf,10,DNN,0.000141738,11
+planetlab1_inf_ethz_ch_nyu_d,3,LinearRegression,0.000549091,None
+planetlab1_inf_ethz_ch_tum_i2p,20,RandomForest,0.00201691,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 1, 'max_depth': 2, 'n_estimators': 200}"
+planetlab1_inf_ethz_ch_uw_oneswarm,10,SVR,0.007852771,"{'coef0': 0, 'degree': 13, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_informatik_uni-erlangen_de_nyu_d,20,RandomForest,0.001795155,"{'bootstrap': True, 'min_samples_split': 2, 'min_samples_leaf': 4, 'max_depth': 5, 'n_estimators': 50}"
+planetlab1_informatik_uni-erlangen_de_utokyo_sora,20,GradientBoosting,0.000158379,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 100}"
+planetlab1_informatik_uni-erlangen_de_uw_seattle,20,DNN,0.000878157,32
+planetlab1_informatik_uni-kl_de_nyu_d,20,AdaBooster,0.000270268,"{'learning_rate': 0.05, 'loss': 'linear', 'n_estimators': 100}"
+planetlab1_informatik_uni-kl_de_root,20,SVR,0.014569935,"{'coef0': 0, 'degree': 18, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_informatik_uni-kl_de_uka_p2pns,3,DecisionTree,0.000337501,"{'max_leaf_nodes': 8, 'min_samples_leaf': 9, 'min_impurity_decrease': 5, 'presort': True, 'min_samples_split': 8, 'max_depth': None, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab1_jhu_edu_root,4,GradientBoosting,0.001337217,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 4, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab1_jhu_edu_tum_i2p,15,AdaBooster,0.001445829,"{'learning_rate': 0.05, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab1_jhu_edu_uw_oneswarm,10,SVR,0.005900261,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_just_edu_jo_irisaple_HEAP,4,GradientBoosting,0.003558592,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 10, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab1_koganei_wide_ad_jp_root,20,RandomForest,0.017159697,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 5, 'max_depth': 2, 'n_estimators': 50}"
+planetlab1_koganei_wide_ad_jp_uw_oneswarm,15,SVR,0.015324475,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_lublin_rd_tp_pl_uw_oneswarm,10,RandomForest,0.005345879,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 10, 'max_depth': 5, 'n_estimators': 100}"
+planetlab1_millennium_berkeley_edu_arizona_owl,15,DNN,0.004073726,55
+planetlab1_millennium_berkeley_edu_nyu_d,5,LinearRegression,0.002005092,None
+planetlab1_millennium_berkeley_edu_princeton_comon,10,AdaBooster,0.000178553,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab1_millennium_berkeley_edu_ufl_ipop3,4,DNN,0.000298564,46
+planetlab1_millennium_berkeley_edu_ufl_svpn,10,DNN,0.000406903,98
+planetlab1_millennium_berkeley_edu_utokyo_sora,15,AdaBooster,0.000104609,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab1_millennium_berkeley_edu_uw_seattle,15,DNN,0.000447635,10
+planetlab1_mnlab_cti_depaul_edu_forth_atlas,15,DNN,0.016778726,1
+planetlab1_mnlab_cti_depaul_edu_princeton_coblitz,1,LinearRegression,0.001637531,None
+planetlab1_mnlab_cti_depaul_edu_root,10,DecisionTree,0.008157595,"{'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'min_impurity_decrease': 6, 'presort': True, 'min_samples_split': 7, 'max_depth': 3, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab1_mnlab_cti_depaul_edu_uw_oneswarm,15,SVR,0.017075018,"{'coef0': 0, 'degree': 3, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_netmedia_gist_ac_kr_princeton_codeen,20,DNN,0.000522692,83
+planetlab1_netmedia_gist_ac_kr_root,15,AdaBooster,0.025448774,"{'learning_rate': 0.1, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab1_netmedia_gist_ac_kr_uw_oneswarm,15,DNN,0.019323863,23
+planetlab1_ntu_nodes_planet-lab_org_root,20,GradientBoosting,0.011467586,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab1_nvlab_org_root,4,RandomForest,0.023435689,"{'bootstrap': False, 'min_samples_split': 3, 'min_samples_leaf': 2, 'max_depth': 2, 'n_estimators': 20}"
+planetlab1_otemachi_wide_ad_jp_arizona_owl,15,LinearRegression,0.00969372,None
+planetlab1_otemachi_wide_ad_jp_nyu_d,5,DNN,0.000278266,20
+planetlab1_otemachi_wide_ad_jp_princeton_codeen,15,GradientBoosting,0.004660365,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 10, 'min_samples_leaf': 9, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab1_otemachi_wide_ad_jp_rnp_dcc_ufjf,20,RandomForest,0.010910036,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 10, 'max_depth': 3, 'n_estimators': 200}"
+planetlab1_otemachi_wide_ad_jp_root,2,GradientBoosting,0.005192511,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 10, 'min_samples_leaf': 8, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab1_otemachi_wide_ad_jp_uw_oneswarm,20,DNN,0.01017099,91
+planetlab1_pjwstk_edu_pl_root,3,GradientBoosting,0.002242259,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab1_pjwstk_edu_pl_umn_net_tools,20,LinearRegression,0.000374376,None
+planetlab1_pjwstk_edu_pl_uw_oneswarm,20,SVR,0.00303546,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_pop-mg_rnp_br_uw_oneswarm,10,SVR,0.001321995,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_pop-pa_rnp_br_uw_oneswarm,20,LinearRegression,0.004403778,None
+planetlab1_rd_tut_fi_irisaple_wup,10,DecisionTree,0.001381768,"{'max_leaf_nodes': 9, 'min_samples_leaf': 5, 'min_impurity_decrease': 5, 'presort': True, 'min_samples_split': 4, 'max_depth': 3, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+planetlab1_rd_tut_fi_uw_oneswarm,20,GradientBoosting,0.010588628,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab1_rutgers_edu_nyu_d,5,RandomForest,0.000522138,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 5, 'max_depth': 2, 'n_estimators': 100}"
+planetlab1_s3_kth_se_irisaple_HEAP,10,DecisionTree,0.002655578,"{'max_leaf_nodes': 2, 'min_samples_leaf': 6, 'min_impurity_decrease': 7, 'presort': False, 'min_samples_split': 4, 'max_depth': 2, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab1_s3_kth_se_irisaple_wup,20,DNN,0.002440304,18
+planetlab1_s3_kth_se_root,4,GradientBoosting,0.010733217,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab1_s3_kth_se_uw_oneswarm,15,SVR,0.003548776,"{'coef0': 0, 'degree': 7, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_scsr_nevada_edu_uw_oneswarm,3,GradientBoosting,0.004155054,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 8, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab1_singaren_net_sg_irisaple_HEAP,15,DecisionTree,0.001170336,"{'max_leaf_nodes': 7, 'min_samples_leaf': 8, 'min_impurity_decrease': 10, 'presort': False, 'min_samples_split': 5, 'max_depth': None, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab1_singaren_net_sg_nyu_d,10,GradientBoosting,0.00014541,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 8, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab1_singaren_net_sg_root,2,DNN,0.000592766,58
+planetlab1_singaren_net_sg_uka_p2pns,20,DNN,0.000592282,35
+planetlab1_singaren_net_sg_umn_net_tools,20,LinearRegression,0.000319012,None
+planetlab1_singaren_net_sg_uw_oneswarm,20,DNN,0.00732373,98
+planetlab1_tamu_edu_nyu_d,1,GradientBoosting,0.000653262,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab1_tamu_edu_princeton_codeen,20,SVR,0.002585419,"{'coef0': 0, 'degree': 16, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_tamu_edu_root,20,DNN,0.025564571,16
+planetlab1_tamu_edu_uw_oneswarm,20,DNN,0.017746722,80
+planetlab1_tlm_unavarra_es_root,2,GradientBoosting,0.004199071,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 7, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab1_uc3m_es_irisaple_wup,10,DNN,0.002234525,49
+planetlab1_uc3m_es_uw_oneswarm,20,LinearRegression,0.003825996,None
+planetlab1_ucsd_edu_root,15,DNN,0.008595247,11
+planetlab1_ucsd_edu_uw_oneswarm,4,SVR,0.015347874,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_unineuchatel_ch_princeton_codeen,15,GradientBoosting,0.003645675,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 1, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab1_unineuchatel_ch_root,20,GradientBoosting,0.000308846,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 10, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab1_unineuchatel_ch_uw_oneswarm,15,LinearRegression,0.00340112,None
+planetlab1_upm_ro_irisaple_HEAP,3,RandomForest,0.000654502,"{'bootstrap': False, 'min_samples_split': 4, 'min_samples_leaf': 3, 'max_depth': 3, 'n_estimators': 200}"
+planetlab1_upm_ro_irisaple_wup,10,DNN,0.000823829,53
+planetlab1_upm_ro_uw_oneswarm,20,DNN,0.00793774,63
+planetlab1_utt_fr_irisaple_HEAP,20,DNN,0.001668792,11
+planetlab1_utt_fr_princeton_codeen,10,GradientBoosting,0.002540288,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 4, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab1_utt_fr_uw_oneswarm,20,SVR,0.004031539,"{'coef0': 0, 'degree': 13, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_willab_fi_uw_oneswarm,10,SVR,0.003740109,"{'coef0': 0, 'degree': 15, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_williams_edu_princeton_codeen,20,GradientBoosting,0.001577639,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab1_williams_edu_uw_oneswarm,20,DNN,0.007618124,18
+planetlab1_wiwi_hu-berlin_de_nyu_d,3,GradientBoosting,0.000443805,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 8, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab1_wiwi_hu-berlin_de_princeton_codeen,20,SVR,0.003126642,"{'coef0': 0, 'degree': 14, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab1_wiwi_hu-berlin_de_root,15,DNN,0.012124538,95
+planetlab1_wiwi_hu-berlin_de_uw_oneswarm,10,SVR,0.011648689,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab1_xeno_cl_cam_ac_uk_irisaple_wup,1,DNN,0.008227949,63
+planetlab1_xeno_cl_cam_ac_uk_uw_oneswarm,5,DNN,0.005638355,77
+planetlab2-buenosaires_lan_redclara_net_uw_oneswarm,20,DNN,0.023612316,39
+planetlab2-santiago_lan_redclara_net_irisaple_HEAP,5,AdaBooster,0.001804623,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 200}"
+planetlab2-santiago_lan_redclara_net_irisaple_wup,20,GradientBoosting,0.002066174,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 10, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab2-santiago_lan_redclara_net_nyu_d,4,DNN,0.00019615,33
+planetlab2-santiago_lan_redclara_net_root,20,GradientBoosting,0.006439204,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 9, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab2-saopaulo_lan_redclara_net_irisaple_HEAP,20,DNN,0.00251532,76
+planetlab2-saopaulo_lan_redclara_net_irisaple_wup,2,GradientBoosting,0.002019971,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 5, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab2-saopaulo_lan_redclara_net_root,15,GradientBoosting,0.000456775,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab2-saopaulo_lan_redclara_net_uw_oneswarm,20,LinearRegression,0.02459256,None
+planetlab2-tijuana_lan_redclara_net_root,5,AdaBooster,0.006083928,"{'learning_rate': 0.3, 'loss': 'exponential', 'n_estimators': 20}"
+planetlab2-tijuana_lan_redclara_net_uw_oneswarm,10,DNN,0.01542716,11
+planetlab2_acis_ufl_edu_uw_oneswarm,15,GradientBoosting,0.007576161,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 10, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab2_arizona-gigapop_net_google_highground,10,SVR,0.003561147,"{'coef0': 0, 'degree': 10, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_arizona-gigapop_net_irisaple_HEAP,2,SVR,0.000798718,"{'coef0': 0, 'degree': 3, 'kernel': 'poly', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_arizona-gigapop_net_princeton_codeen,20,GradientBoosting,0.003023965,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab2_arizona-gigapop_net_root,15,GradientBoosting,0.012740117,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 4, 'min_samples_leaf': 7, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_arizona-gigapop_net_uw_oneswarm,15,LinearRegression,0.011112,None
+planetlab2_aston_ac_uk_irisaple_HEAP,10,DNN,0.000481957,48
+planetlab2_aston_ac_uk_princeton_codeen,20,SVR,0.001517361,"{'coef0': 0, 'degree': 7, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_aston_ac_uk_rnp_dcc_ufjf,15,DNN,0.008496514,38
+planetlab2_aston_ac_uk_root,5,AdaBooster,0.013855976,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab2_aston_ac_uk_uka_p2pns,15,SVR,0.000104936,"{'coef0': 0, 'degree': 19, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_aston_ac_uk_utokyo_sora,10,AdaBooster,6.29E-05,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 20}"
+planetlab2_aston_ac_uk_uw_oneswarm,10,DNN,0.009434614,33
+planetlab2_aston_ac_uk_uw_seattle,1,GradientBoosting,0.000271864,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 5, 'min_samples_leaf': 3, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_aston_ac_uk_yale_p4p,20,DNN,0.005192201,33
+planetlab2_bgu_ac_il_princeton_codeen,20,DNN,0.000375211,81
+planetlab2_bgu_ac_il_root,15,AdaBooster,0.01680943,"{'learning_rate': 0.05, 'loss': 'linear', 'n_estimators': 10}"
+planetlab2_bgu_ac_il_uw_oneswarm,20,DNN,0.021446071,7
+planetlab2_bupt_edu_cn_uw_oneswarm,15,RandomForest,0.003705597,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 9, 'max_depth': None, 'n_estimators': 200}"
+planetlab2_byu_edu_princeton_codeen,4,SVR,0.00506186,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_ceid_upatras_gr_irisaple_HEAP,1,LinearRegression,0.003004021,None
+planetlab2_cesnet_cz_nyu_d,3,GradientBoosting,0.000784063,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 6, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_cesnet_cz_root,15,DNN,0.01331334,4
+planetlab2_cis_upenn_edu_princeton_codeen,15,GradientBoosting,0.001843976,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 6, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab2_cis_upenn_edu_root,10,DNN,0.009143104,91
+planetlab2_cis_upenn_edu_uw_oneswarm,5,DNN,0.007273625,60
+planetlab2_citadel_edu_root,10,GradientBoosting,0.003564461,"{'min_samples_split': 8, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab2_clemson_edu_uw_oneswarm,10,GradientBoosting,0.004041472,"{'min_samples_split': 6, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 9, 'min_samples_leaf': 10, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab2_comp_nus_edu_sg_princeton_codeen,15,GradientBoosting,0.000199909,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 10, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+planetlab2_cs_otago_ac_nz_irisaple_HEAP,10,RandomForest,0.000550056,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 5, 'max_depth': 2, 'n_estimators': 20}"
+planetlab2_cs_otago_ac_nz_uka_p2pns,2,DNN,0.00032144,50
+planetlab2_cs_otago_ac_nz_uw_oneswarm,10,SVR,0.004882653,"{'coef0': 0, 'degree': 14, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_cs_pitt_edu_nyu_d,4,GradientBoosting,0.000363675,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab2_cs_pitt_edu_princeton_codeen,15,GradientBoosting,0.000875119,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 9, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab2_cs_pitt_edu_uw_oneswarm,20,DNN,0.007158445,89
+planetlab2_cs_stevens-tech_edu_uw_oneswarm,15,LinearRegression,0.010634738,None
+planetlab2_cs_ucl_ac_uk_princeton_codeen,20,SVR,0.001877594,"{'coef0': 0, 'degree': 16, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_cs_ucl_ac_uk_root,20,DNN,0.007262554,70
+planetlab2_cs_ucla_edu_princeton_codeen,10,RandomForest,0.00193537,"{'bootstrap': False, 'min_samples_split': 6, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 10}"
+planetlab2_cs_ucla_edu_root,5,DNN,0.010373922,67
+planetlab2_cs_ucla_edu_uw_oneswarm,20,SVR,0.00781041,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_cs_uit_no_uw_oneswarm,15,DNN,0.00275452,79
+planetlab2_cs_uiuc_edu_arizona_owl,3,AdaBooster,0.006105873,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 50}"
+planetlab2_cs_uiuc_edu_princeton_codeen,15,DNN,0.024218265,3
+planetlab2_cs_uiuc_edu_root,15,GradientBoosting,0.008123483,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab2_cs_uiuc_edu_uw_oneswarm,15,DNN,0.014441815,2
+planetlab2_cs_umass_edu_princeton_codeen,20,GradientBoosting,0.006053863,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 3, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab2_cs_umass_edu_uka_p2pns,20,AdaBooster,0.000172982,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 200}"
+planetlab2_cs_umass_edu_uw_oneswarm,15,DNN,0.006639359,56
+planetlab2_cs_uml_edu_uw_oneswarm,15,LinearRegression,0.003565879,None
+planetlab2_cs_unc_edu_nyu_d,4,GradientBoosting,0.000436968,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_cs_uoi_gr_irisaple_HEAP,15,LinearRegression,0.000600551,None
+planetlab2_cs_uoi_gr_uw_oneswarm,20,DNN,0.011920003,9
+planetlab2_cs_uoi_gr_uw_trs2,20,RandomForest,0.0080672,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 50}"
+planetlab2_cs_uoregon_edu_root,2,LinearRegression,0.004699997,None
+planetlab2_cs_uoregon_edu_uw_oneswarm,10,LinearRegression,0.007847025,None
+planetlab2_eas_asu_edu_princeton_codeen,10,DNN,0.002848141,63
+planetlab2_eas_asu_edu_uw_oneswarm,10,LinearRegression,0.007253208,None
+planetlab2_ece_ucdavis_edu_uw_oneswarm,20,SVR,0.002856028,"{'coef0': 0, 'degree': 4, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_ecs_vuw_ac_nz_irisaple_HEAP,1,GradientBoosting,0.000691566,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab2_ecs_vuw_ac_nz_uw_oneswarm,10,SVR,0.007469783,"{'coef0': 0, 'degree': 15, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_eecs_ucf_edu_nyu_d,2,GradientBoosting,0.000324745,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 7, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab2_eecs_ucf_edu_princeton_codeen,3,GradientBoosting,0.001225438,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 2, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab2_eecs_ucf_edu_root,10,GradientBoosting,0.004941013,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 10, 'min_samples_leaf': 1, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 200}"
+planetlab2_eecs_ucf_edu_uw_oneswarm,15,SVR,0.002748346,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_eecs_wsu_edu_google_highground,15,AdaBooster,0.001801878,"{'learning_rate': 1, 'loss': 'square', 'n_estimators': 200}"
+planetlab2_eecs_wsu_edu_irisaple_HEAP,20,DNN,0.000988297,41
+planetlab2_eecs_wsu_edu_uw_oneswarm,4,SVR,0.004119732,"{'coef0': 0, 'degree': 13, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_een_orst_edu_uw_oneswarm,10,DNN,0.004578067,45
+planetlab2_elet_polimi_it_cwru_DNS,20,DNN,0.001413999,8
+planetlab2_elet_polimi_it_google_highground,15,DNN,0.003425209,12
+planetlab2_elet_polimi_it_irisaple_HEAP,20,DNN,0.000923788,67
+planetlab2_eurecom_fr_irisaple_HEAP,2,DNN,0.001411348,95
+planetlab2_eurecom_fr_irisaple_wup,15,DecisionTree,0.001631736,"{'max_leaf_nodes': 2, 'min_samples_leaf': 6, 'min_impurity_decrease': 7, 'presort': False, 'min_samples_split': 8, 'max_depth': None, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab2_eurecom_fr_uw_oneswarm,5,SVR,0.002697655,"{'coef0': 0, 'degree': 5, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_exp-math_uni-essen_de_arizona_nest,20,RandomForest,0.007144698,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 10, 'max_depth': 3, 'n_estimators': 200}"
+planetlab2_exp-math_uni-essen_de_root,15,GradientBoosting,0.012341214,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 9, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab2_exp-math_uni-essen_de_uw_oneswarm,15,GradientBoosting,0.01060705,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 9, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100}"
+planetlab2_fem_tu-ilmenau_de_uka_p2pns,10,DNN,0.000375726,39
+planetlab2_fem_tu-ilmenau_de_utokyo_sora,3,RandomForest,0.000144971,"{'bootstrap': False, 'min_samples_split': 4, 'min_samples_leaf': 3, 'max_depth': 3, 'n_estimators': 50}"
+planetlab2_georgetown_edu_nyu_d,2,RandomForest,0.000352987,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 3, 'max_depth': 2, 'n_estimators': 10}"
+planetlab2_georgetown_edu_pl_drl,15,DNN,0.000650834,96
+planetlab2_georgetown_edu_root,20,DNN,0.076589586,21
+planetlab2_georgetown_edu_uw_oneswarm,10,LinearRegression,0.007172604,None
+planetlab2_hiit_fi_nyu_d,10,GradientBoosting,0.000770117,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 7, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab2_hiit_fi_root,20,AdaBooster,0.015986517,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 100}"
+planetlab2_inf_ethz_ch_nyu_d,5,AdaBooster,0.000690793,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab2_inf_ethz_ch_uka_p2pns,20,GradientBoosting,0.000418903,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab2_inf_ethz_ch_uw_oneswarm,10,SVR,0.010728171,"{'coef0': 0, 'degree': 6, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_informatik_uni-leipzig_de_irisaple_HEAP,10,GradientBoosting,0.001140249,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 10, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab2_informatik_uni-leipzig_de_irisaple_wup,10,DNN,0.001134028,28
+planetlab2_informatik_uni-leipzig_de_uw_oneswarm,15,LinearRegression,0.014752318,None
+planetlab2_jhu_edu_root,1,KNN,0.011134468,"{'algorithm': 'brute', 'p': 1, 'leaf_size': 5, 'n_neighbors': 3, 'weights': 'distance'}"
+planetlab2_jhu_edu_uw_oneswarm,10,DNN,0.004727133,6
+planetlab2_koganei_wide_ad_jp_root,10,GradientBoosting,0.016187492,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 6, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab2_millennium_berkeley_edu_nyu_d,20,DNN,0.001703466,84
+planetlab2_millennium_berkeley_edu_princeton_codeen,15,LinearRegression,0.003663508,None
+planetlab2_millennium_berkeley_edu_root,15,SVR,0.004517445,"{'coef0': 0, 'degree': 19, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_millennium_berkeley_edu_ufl_ipop3,2,LinearRegression,0.00026484,None
+planetlab2_millennium_berkeley_edu_ufl_svpn,15,GradientBoosting,0.000217647,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}"
+planetlab2_millennium_berkeley_edu_uw_oneswarm,15,SVR,0.004728478,"{'coef0': 0, 'degree': 13, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_millennium_berkeley_edu_uw_seattle,10,DNN,0.00046143,64
+planetlab2_mnlab_cti_depaul_edu_uw_oneswarm,10,LinearRegression,0.007319455,None
+planetlab2_netlab_uky_edu_uka_p2pns,20,DNN,0.000158791,94
+planetlab2_netmedia_gist_ac_kr_princeton_codeen,20,SVR,0.001843019,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_netmedia_gist_ac_kr_uw_oneswarm,20,RandomForest,0.001589424,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 6, 'max_depth': None, 'n_estimators': 200}"
+planetlab2_ntu_nodes_planet-lab_org_princeton_comon,2,GradientBoosting,0.000277357,"{'min_samples_split': 9, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 8, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 50}"
+planetlab2_pc_cis_udel_edu_att_bwe,4,GradientBoosting,0.011955491,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 4, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab2_pc_cis_udel_edu_howard_p2psip,1,LinearRegression,0.012267159,None
+planetlab2_pc_cis_udel_edu_imperial_gds,1,AdaBooster,0.008913046,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+planetlab2_pc_cis_udel_edu_irisaple_sTube,20,GradientBoosting,0.009808268,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'quantile', 'max_leaf_nodes': 4, 'min_samples_leaf': 3, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab2_pc_cis_udel_edu_nyu_d,3,DNN,0.000518303,47
+planetlab2_pc_cis_udel_edu_root,10,RandomForest,0.015386421,"{'bootstrap': True, 'min_samples_split': 2, 'min_samples_leaf': 3, 'max_depth': 5, 'n_estimators': 100}"
+planetlab2_pc_cis_udel_edu_technion_dist_stor,2,GradientBoosting,0.026453654,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 9, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 50}"
+planetlab2_pc_cis_udel_edu_ucla_dnsre,3,SVR,0.009757499,"{'coef0': 0, 'degree': 7, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_pc_cis_udel_edu_umass_globaltube,2,GradientBoosting,0.008329132,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab2_pc_cis_udel_edu_unitnple_csaba,20,DNN,0.014928253,6
+planetlab2_pc_cis_udel_edu_utoronto_li_rs,5,AdaBooster,0.006649493,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 10}"
+planetlab2_pc_cis_udel_edu_uw_oneswarm,3,DNN,0.013392521,27
+planetlab2_pc_cis_udel_edu_uw_trs2,20,DNN,0.008707056,22
+planetlab2_pc_cis_udel_edu_williams_gush,5,GradientBoosting,0.015256887,"{'min_samples_split': 10, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_pop-mg_rnp_br_princeton_codeen,15,LinearRegression,0.000375857,None
+planetlab2_pop-mg_rnp_br_uw_oneswarm,20,SVR,0.00194388,"{'coef0': 0, 'degree': 18, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_pop-rj_rnp_br_irisaple_wup,20,DNN,0.000324581,99
+planetlab2_rd_tut_fi_irisaple_HEAP,2,LinearRegression,0.001726506,None
+planetlab2_rd_tut_fi_irisaple_wup,5,DecisionTree,0.001970153,"{'max_leaf_nodes': 2, 'min_samples_leaf': 4, 'min_impurity_decrease': 8, 'presort': True, 'min_samples_split': 6, 'max_depth': 3, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab2_rd_tut_fi_uw_oneswarm,20,RandomForest,0.011836882,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 6, 'max_depth': 5, 'n_estimators': 200}"
+planetlab2_s3_kth_se_irisaple_HEAP,1,DNN,0.003741233,19
+planetlab2_s3_kth_se_irisaple_wup,20,DNN,0.001642948,33
+planetlab2_s3_kth_se_root,15,AdaBooster,0.007345517,"{'learning_rate': 0.05, 'loss': 'square', 'n_estimators': 50}"
+planetlab2_s3_kth_se_uw_oneswarm,15,SVR,0.003932491,"{'coef0': 0, 'degree': 3, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_tau_ac_il_irisaple_HEAP,1,DNN,0.000982089,63
+planetlab2_tau_ac_il_irisaple_wup,10,DNN,0.000458744,33
+planetlab2_tau_ac_il_root,10,DecisionTree,0.003864163,"{'max_leaf_nodes': 10, 'min_samples_leaf': 3, 'min_impurity_decrease': 5, 'presort': False, 'min_samples_split': 6, 'max_depth': 2, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+planetlab2_tau_ac_il_uw_oneswarm,20,DNN,0.014397508,6
+planetlab2_thlab_net_uw_oneswarm,5,RandomForest,0.003649335,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 6, 'max_depth': 3, 'n_estimators': 50}"
+planetlab2_tlm_unavarra_es_uw_oneswarm,5,AdaBooster,0.003574398,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+planetlab2_unineuchatel_ch_princeton_codeen,15,SVR,0.002725295,"{'coef0': 0, 'degree': 18, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_upc_es_uw_oneswarm,15,LinearRegression,0.012877887,None
+planetlab2_upm_ro_irisaple_HEAP,1,GradientBoosting,0.000793842,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 7, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_upm_ro_irisaple_wup,15,DNN,0.001007453,10
+planetlab2_upm_ro_uw_oneswarm,10,DNN,0.005240346,77
+planetlab2_uta_edu_nyu_d,2,GradientBoosting,0.001093264,"{'min_samples_split': 10, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 3, 'min_samples_leaf': 9, 'learning_rate': 1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'auto', 'n_estimators': 10}"
+planetlab2_uta_edu_uw_oneswarm,15,SVR,0.012287762,"{'coef0': 0, 'degree': 6, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_utdallas_edu_princeton_codeen,20,SVR,0.002423948,"{'coef0': 0, 'degree': 3, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_utt_fr_irisaple_wup,2,SVR,0.00171817,"{'coef0': 0, 'degree': 13, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_warsaw_rd_tp_pl_irisaple_HEAP,20,GradientBoosting,0.001277675,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 4, 'min_samples_leaf': 3, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 10}"
+planetlab2_warsaw_rd_tp_pl_root,10,AdaBooster,0.000267432,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 10}"
+planetlab2_warsaw_rd_tp_pl_uw_oneswarm,15,LinearRegression,0.020247838,None
+planetlab2_warsaw_rd_tp_pl_uw_seattle,20,DNN,0.00108461,60
+planetlab2_wiwi_hu-berlin_de_irisaple_HEAP,1,SVR,0.000699158,"{'coef0': 0, 'degree': 16, 'kernel': 'poly', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_wiwi_hu-berlin_de_irisaple_wup,10,SVR,0.000800097,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab2_wiwi_hu-berlin_de_nyu_d,20,SVR,0.00065568,"{'coef0': 0, 'degree': 4, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_wiwi_hu-berlin_de_princeton_codeen,20,LinearRegression,0.001234671,None
+planetlab2_wiwi_hu-berlin_de_purdue_2,20,LinearRegression,0.001810166,None
+planetlab2_wiwi_hu-berlin_de_root,15,GradientBoosting,0.007525542,"{'min_samples_split': 3, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 9, 'min_samples_leaf': 3, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 20}"
+planetlab2_wiwi_hu-berlin_de_ufl_mapreddisc,20,LinearRegression,0.001221608,None
+planetlab2_wiwi_hu-berlin_de_uofathens_zoi,15,SVR,0.005160718,"{'coef0': 0, 'degree': 19, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab2_wiwi_hu-berlin_de_uw_oneswarm,20,SVR,0.00693761,"{'coef0': 0, 'degree': 12, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab3_arizona-gigapop_net_arizona_owl,15,SVR,0.011693678,"{'coef0': 0, 'degree': 8, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab3_arizona-gigapop_net_purdue_4,15,SVR,0.010729211,"{'coef0': 0, 'degree': 10, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab3_arizona-gigapop_net_root,2,AdaBooster,0.004597833,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 20}"
+planetlab3_arizona-gigapop_net_uw_oneswarm,15,DNN,0.010573232,55
+planetlab3_canterbury_ac_nz_uka_p2pns,5,DecisionTree,0.000284998,"{'max_leaf_nodes': 7, 'min_samples_leaf': 6, 'min_impurity_decrease': 3, 'presort': True, 'min_samples_split': 7, 'max_depth': 5, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab3_canterbury_ac_nz_uw_oneswarm,15,DNN,0.002450907,66
+planetlab3_cs_st-andrews_ac_uk_irisaple_HEAP,20,SVR,0.000977928,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab3_cs_st-andrews_ac_uk_uw_oneswarm,20,RandomForest,0.006249354,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 10, 'max_depth': 5, 'n_estimators': 100}"
+planetlab3_cs_uchicago_edu_root,20,RandomForest,0.01932326,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 6, 'max_depth': 5, 'n_estimators': 10}"
+planetlab3_cs_uoregon_edu_uw_oneswarm,15,LinearRegression,0.017108598,None
+planetlab3_csail_mit_edu_root,15,SVR,0.047662062,"{'coef0': 0, 'degree': 11, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab3_csail_mit_edu_uofathens_zoi,15,SVR,0.038282404,"{'coef0': 0, 'degree': 9, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab3_csail_mit_edu_uw_oneswarm,10,LinearRegression,0.015928387,None
+planetlab3_csee_usf_edu_princeton_codeen,15,SVR,0.003371866,"{'coef0': 0, 'degree': 5, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab3_csee_usf_edu_root,15,DNN,0.013506835,33
+planetlab3_csee_usf_edu_uw_oneswarm,15,AdaBooster,0.006578295,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+planetlab3_eecs_northwestern_edu_nyu_d,2,DNN,0.000403653,21
+planetlab3_eecs_northwestern_edu_princeton_codeen,15,RandomForest,0.003791088,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 10, 'max_depth': None, 'n_estimators': 100}"
+planetlab3_eecs_northwestern_edu_rnp_dcc_ufjf,20,DNN,0.033504468,35
+planetlab3_eecs_northwestern_edu_root,20,DNN,0.01257665,94
+planetlab3_eecs_northwestern_edu_uw_oneswarm,15,LinearRegression,0.020674803,None
+planetlab3_eecs_umich_edu_princeton_codeen,20,RandomForest,0.002284416,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 50}"
+planetlab3_eecs_umich_edu_root,20,DNN,0.013497907,79
+planetlab3_eecs_umich_edu_uw_oneswarm,10,LinearRegression,0.007842056,None
+planetlab3_hiit_fi_princeton_codeen,15,RandomForest,0.001855589,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 6, 'max_depth': 5, 'n_estimators': 20}"
+planetlab3_hiit_fi_uw_oneswarm,10,SVR,0.006645884,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab3_inf_ethz_ch_uka_p2pns,20,GradientBoosting,0.000282762,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 6, 'learning_rate': 0.05, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab3_inf_ethz_ch_uw_oneswarm,15,GradientBoosting,0.003001128,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 8, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab3_mini_pw_edu_pl_irisaple_HEAP,1,GradientBoosting,0.001518067,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 3, 'min_samples_leaf': 2, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab3_mini_pw_edu_pl_uw_oneswarm,20,LinearRegression,0.006339631,None
+planetlab3_mini_pw_edu_pl_uw_seattle,1,GradientBoosting,0.000521551,"{'min_samples_split': 2, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 8, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}"
+planetlab3_netmedia_gist_ac_kr_irisaple_HEAP,4,DecisionTree,0.002635419,"{'max_leaf_nodes': 7, 'min_samples_leaf': 6, 'min_impurity_decrease': 7, 'presort': False, 'min_samples_split': 4, 'max_depth': None, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+planetlab3_netmedia_gist_ac_kr_root,10,RandomForest,0.001044817,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': 3, 'n_estimators': 50}"
+planetlab3_postel_org_root,20,DecisionTree,0.010505337,"{'max_leaf_nodes': 9, 'min_samples_leaf': 7, 'min_impurity_decrease': 5, 'presort': True, 'min_samples_split': 2, 'max_depth': 5, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab3_postel_org_uw_oneswarm,10,LinearRegression,0.007059927,None
+planetlab3_singaren_net_sg_rnp_dcc_ufjf,4,DNN,0.032663562,40
+planetlab3_singaren_net_sg_root,20,DNN,0.005683335,43
+planetlab3_ucsd_edu_nyu_d,20,DNN,0.000459786,30
+planetlab3_upc_es_irisaple_HEAP,10,DNN,0.001231809,26
+planetlab3_upc_es_irisaple_wup,20,DNN,0.00111099,20
+planetlab3_upc_es_root,3,GradientBoosting,0.003859636,"{'min_samples_split': 6, 'warm_start': True, 'loss': 'ls', 'max_leaf_nodes': 4, 'min_samples_leaf': 4, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'auto', 'n_estimators': 50}"
+planetlab3_upc_es_upcple_lrm,10,GradientBoosting,0.000617954,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 2, 'min_samples_leaf': 8, 'learning_rate': 0.01, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 20}"
+planetlab3_upc_es_uw_oneswarm,15,DNN,0.013733693,81
+planetlab3_upc_es_uw_seattle,20,DecisionTree,0.000584549,"{'max_leaf_nodes': 3, 'min_samples_leaf': 6, 'min_impurity_decrease': 3, 'presort': True, 'min_samples_split': 10, 'max_depth': 3, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab3_wail_wisc_edu_nyu_d,20,AdaBooster,0.000316564,"{'learning_rate': 0.05, 'loss': 'exponential', 'n_estimators': 20}"
+planetlab3_wail_wisc_edu_princeton_codeen,10,GradientBoosting,0.006115413,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 7, 'min_samples_leaf': 4, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 20}"
+planetlab3_wail_wisc_edu_uw_oneswarm,15,DNN,0.010576262,15
+planetlab4_cs_duke_edu_nyu_d,15,AdaBooster,0.000491867,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+planetlab4_cs_duke_edu_root,15,DNN,0.013317133,13
+planetlab4_cs_duke_edu_uw_oneswarm,20,RandomForest,0.016878354,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 8, 'max_depth': None, 'n_estimators': 200}"
+planetlab4_cs_uiuc_edu_root,20,RandomForest,0.009763955,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 7, 'max_depth': 3, 'n_estimators': 20}"
+planetlab4_cse_nd_edu_uw_oneswarm,15,RandomForest,0.004117328,"{'bootstrap': True, 'min_samples_split': 4, 'min_samples_leaf': 9, 'max_depth': 5, 'n_estimators': 50}"
+planetlab4_csee_usf_edu_princeton_codeen,20,GradientBoosting,0.004574455,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 8, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 100}"
+planetlab4_csee_usf_edu_uw_oneswarm,15,LinearRegression,0.003923848,None
+planetlab4_csres_utexas_edu_uw_oneswarm,15,RandomForest,0.009597539,"{'bootstrap': True, 'min_samples_split': 8, 'min_samples_leaf': 1, 'max_depth': None, 'n_estimators': 200}"
+planetlab4_eecs_umich_edu_princeton_codeen,15,SVR,0.00206022,"{'coef0': 0, 'degree': 6, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab4_eecs_umich_edu_uw_oneswarm,10,DNN,0.010772783,90
+planetlab4_goto_info_waseda_ac_jp_uw_oneswarm,20,RandomForest,0.009849796,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': None, 'n_estimators': 50}"
+planetlab4_hiit_fi_uw_oneswarm,20,RandomForest,0.00458022,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 10, 'max_depth': None, 'n_estimators': 100}"
+planetlab4_mini_pw_edu_pl_irisaple_HEAP,15,DecisionTree,0.002266783,"{'max_leaf_nodes': 2, 'min_samples_leaf': 7, 'min_impurity_decrease': 1, 'presort': True, 'min_samples_split': 10, 'max_depth': 5, 'max_features': 'log2', 'min_weight_fraction_leaf': 0}"
+planetlab4_mini_pw_edu_pl_irisaple_wup,20,DNN,0.001462034,44
+planetlab4_mini_pw_edu_pl_nyu_d,4,AdaBooster,0.000416074,"{'learning_rate': 0.01, 'loss': 'linear', 'n_estimators': 50}"
+planetlab4_mini_pw_edu_pl_root,10,AdaBooster,0.000815698,"{'learning_rate': 0.05, 'loss': 'square', 'n_estimators': 20}"
+planetlab4_mini_pw_edu_pl_uw_oneswarm,20,DNN,0.015785284,36
+planetlab4_rutgers_edu_uw_oneswarm,10,DNN,0.006864623,20
+planetlab4_wail_wisc_edu_uw_oneswarm,10,DNN,0.011543515,16
+planetlab4_warsaw_rd_tp_pl_uw_oneswarm,15,DNN,0.005588407,8
+planetlab5_cs_uiuc_edu_uw_oneswarm,10,SVR,0.008281833,"{'coef0': 0, 'degree': 10, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetlab5_csee_usf_edu_uw_oneswarm,10,SVR,0.008449468,"{'coef0': 0, 'degree': 16, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+planetlab5_eecs_umich_edu_irisaple_HEAP,15,DNN,0.001550349,46
+planetlab5_eecs_umich_edu_irisaple_wup,10,DecisionTree,0.002712814,"{'max_leaf_nodes': 3, 'min_samples_leaf': 2, 'min_impurity_decrease': 2, 'presort': False, 'min_samples_split': 4, 'max_depth': 5, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+planetlab5_goto_info_waseda_ac_jp_uw_oneswarm,15,LinearRegression,0.005805645,None
+planetlab6_cs_duke_edu_irisaple_HEAP,15,DNN,0.000426862,38
+planetlab6_cs_duke_edu_uw_oneswarm,20,RandomForest,0.012795831,"{'bootstrap': True, 'min_samples_split': 9, 'min_samples_leaf': 6, 'max_depth': None, 'n_estimators': 200}"
+planetlabpc1_upf_edu_irisaple_wup,20,DNN,0.021395691,10
+planetlabpc1_upf_edu_princeton_comon,5,SVR,0.001150716,"{'coef0': 0, 'degree': 15, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+planetslug4_cse_ucsc_edu_uw_oneswarm,3,GradientBoosting,0.005743995,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 200}"
+planetslug5_cse_ucsc_edu_uw_oneswarm,20,GradientBoosting,0.004376303,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 3, 'min_samples_leaf': 10, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}"
+ple02_fc_univie_ac_at_uw_oneswarm,15,DNN,0.007993932,88
+ple1_dmcs_p_lodz_pl_upmc_ts,20,DNN,0.004533826,28
+ple1_dmcs_p_lodz_pl_uw_oneswarm,20,LinearRegression,0.004522771,None
+ple1_tu_koszalin_pl_uw_oneswarm,20,DNN,0.004498391,81
+ple2_cesnet_cz_ uofathens_zoi,20,DNN,2.14E-05,65
+ple2_cesnet_cz_uw_oneswarm,20,SVR,0.001406494,"{'coef0': 0, 'degree': 14, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+ple2_dmcs_p_lodz_pl_irisaple_HEAP,20,DNN,0.000447468,25
+ple2_dmcs_p_lodz_pl_irisaple_wup,20,DNN,0.000700055,90
+ple2_dmcs_p_lodz_pl_uw_oneswarm,20,SVR,0.003985244,"{'coef0': 0, 'degree': 19, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+ple2_tu_koszalin_pl_irisaple_HEAP,1,GradientBoosting,0.001988322,"{'min_samples_split': 5, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 2, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 50}"
+ple2_tu_koszalin_pl_irisaple_wup,10,DNN,0.002151612,44
+ple2_tu_koszalin_pl_umn_net_tools,4,DNN,0.000117695,80
+plgmu4_ite_gmu_edu_princeton_codeen,15,SVR,0.001549216,"{'coef0': 0, 'degree': 11, 'kernel': 'linear', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+plgmu4_ite_gmu_edu_rnp_dcc_ufjf,20,RandomForest,0.016373117,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': 2, 'n_estimators': 20}"
+plgmu4_ite_gmu_edu_root,15,DNN,0.056396897,23
+plgmu4_ite_gmu_edu_uofathens_zoi,20,AdaBooster,0.02514765,"{'learning_rate': 0.01, 'loss': 'square', 'n_estimators': 200}"
+plgmu4_ite_gmu_edu_uw_oneswarm,20,GradientBoosting,0.006989902,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 5, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 100}"
+plgmu5_ite_gmu_edu_irisaple_HEAP,20,DNN,0.000441884,70
+plgmu5_ite_gmu_edu_uw_oneswarm,10,LinearRegression,0.006941219,None
+pli1-pa-4_hpl_hp_com_ uofathens_zoi,2,AdaBooster,1.57E-05,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 10}"
+pli1-pa-4_hpl_hp_com_uw_oneswarm,15,LinearRegression,0.003657341,None
+pli1-pa-5_hpl_hp_com_ uofathens_zoi,3,DNN,2.26E-05,16
+pli1-pa-5_hpl_hp_com_uw_oneswarm,10,GradientBoosting,0.002660276,"{'min_samples_split': 4, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 5, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 200}"
+pli1-pa-6_hpl_hp_com_ uofathens_zoi,10,DNN,2.14E-05,53
+pli2-pa-1_hpl_hp_com_ uofathens_zoi,20,DNN,2.12E-05,82
+pli2-pa-1_hpl_hp_com_uw_oneswarm,15,RandomForest,0.003606885,"{'bootstrap': True, 'min_samples_split': 10, 'min_samples_leaf': 8, 'max_depth': 5, 'n_estimators': 20}"
+pli2-pa-2_hpl_hp_com_ uofathens_zoi,15,DNN,2.26E-05,94
+pli2-pa-2_hpl_hp_com_uw_oneswarm,20,DNN,0.00235289,55
+pli2-pa-3_hpl_hp_com_princeton_codeen,2,GradientBoosting,0.000144176,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 9, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 200}"
+pli2-pa-3_hpl_hp_com_uw_seattle,20,DNN,0.000128508,65
+plink_cs_uwaterloo_ca_princeton_codeen,20,RandomForest,0.001270692,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 7, 'max_depth': None, 'n_estimators': 100}"
+plink_cs_uwaterloo_ca_tum_i2p,15,GradientBoosting,0.001667334,"{'min_samples_split': 3, 'warm_start': False, 'loss': 'ls', 'max_leaf_nodes': 10, 'min_samples_leaf': 9, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'log2', 'n_estimators': 20}"
+plink_cs_uwaterloo_ca_uka_p2pns,10,DNN,0.000181329,4
+plnode-03_gpolab_bbn_com_tum_i2p,15,AdaBooster,0.001040822,"{'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 50}"
+plnode-03_gpolab_bbn_com_uw_oneswarm,15,GradientBoosting,0.006557764,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 7, 'min_samples_leaf': 10, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 10}"
+plnode-04_gpolab_bbn_com_uw_oneswarm,4,LinearRegression,0.006927458,None
+pluto_cs_brown_edu_uw_oneswarm,20,DNN,0.00501086,10
+ricepl-1_cs_rice_edu_nyu_d,2,DNN,0.000652458,7
+ricepl-1_cs_rice_edu_uw_oneswarm,15,DNN,0.013349647,66
+ricepl-5_cs_rice_edu_ rnp_dcc_ufjf,20,RandomForest,0.003056223,"{'bootstrap': True, 'min_samples_split': 2, 'min_samples_leaf': 9, 'max_depth': 2, 'n_estimators': 100}"
+ricepl-5_cs_rice_edu_uw_oneswarm,15,SVR,0.003830759,"{'coef0': 0, 'degree': 9, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+righthand_eecs_harvard_edu_princeton_codeen,20,RandomForest,0.007331735,"{'bootstrap': True, 'min_samples_split': 6, 'min_samples_leaf': 6, 'max_depth': None, 'n_estimators': 20}"
+righthand_eecs_harvard_edu_uw_oneswarm,15,DNN,0.004694458,99
+roam1_cs_ou_edu_uw_oneswarm,15,SVR,0.002980002,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+roam2_cs_ou_edu_irisaple_HEAP,15,AdaBooster,0.000450068,"{'learning_rate': 0.3, 'loss': 'exponential', 'n_estimators': 50}"
+roam2_cs_ou_edu_princeton_codeen,10,GradientBoosting,0.003122397,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 4, 'min_samples_leaf': 10, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'log2', 'n_estimators': 50}"
+rochefort_infonet_fundp_ac_be_irisaple_HEAP,1,GradientBoosting,0.000663157,"{'min_samples_split': 4, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 6, 'min_samples_leaf': 9, 'learning_rate': 0.3, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 5, 'max_features': 'sqrt', 'n_estimators': 10}"
+rochefort_infonet_fundp_ac_be_irisaple_wup,10,DecisionTree,0.000670447,"{'max_leaf_nodes': 9, 'min_samples_leaf': 4, 'min_impurity_decrease': 10, 'presort': True, 'min_samples_split': 2, 'max_depth': 2, 'max_features': 'auto', 'min_weight_fraction_leaf': 0}"
+rochefort_infonet_fundp_ac_be_root,20,GradientBoosting,0.016444431,"{'min_samples_split': 7, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 7, 'learning_rate': 0.3, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}"
+rochefort_infonet_fundp_ac_be_uw_oneswarm,15,DNN,0.002584384,97
+server1_planetlab_iit-tech_net_nyu_d,4,DNN,0.001698826,2
+server1_planetlab_iit-tech_net_pl_drl,5,GradientBoosting,0.000542047,"{'min_samples_split': 7, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 4, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+server2_planetlab_iit-tech_net_howard_p2psip,3,RandomForest,0.006464,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 5, 'max_depth': 3, 'n_estimators': 100}"
+server2_planetlab_iit-tech_net_nyu_d,4,LinearRegression,0.000275686,None
+server2_planetlab_iit-tech_net_root,20,RandomForest,0.022211881,"{'bootstrap': True, 'min_samples_split': 7, 'min_samples_leaf': 8, 'max_depth': 2, 'n_estimators': 10}"
+server2_planetlab_iit-tech_net_uw_oneswarm,15,SVR,0.008247709,"{'coef0': 0, 'degree': 9, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+server3_planetlab_iit-tech_net_nyu_d,1,SVR,0.0013284,"{'coef0': 0, 'degree': 17, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+server3_planetlab_iit-tech_net_root,20,RandomForest,0.053762735,"{'bootstrap': True, 'min_samples_split': 5, 'min_samples_leaf': 7, 'max_depth': 3, 'n_estimators': 50}"
+server3_planetlab_iit-tech_net_uw_oneswarm,20,SVR,0.003529287,"{'coef0': 0, 'degree': 10, 'kernel': 'sigmoid', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+stella_planetlab_ntua_gr_nyu_d,15,GradientBoosting,0.000395835,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'huber', 'max_leaf_nodes': 9, 'min_samples_leaf': 10, 'learning_rate': 0.01, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}"
+stella_planetlab_ntua_gr_princeton_codeen,4,SVR,0.004532873,"{'coef0': 0, 'degree': 15, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+stella_planetlab_ntua_gr_root,20,GradientBoosting,0.001130894,"{'min_samples_split': 2, 'warm_start': False, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 5, 'learning_rate': 0.1, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': 2, 'max_features': 'sqrt', 'n_estimators': 20}"
+thalescom-48-42_cnt_nerim_net_uw_oneswarm,20,GradientBoosting,0.001277857,"{'min_samples_split': 5, 'warm_start': True, 'loss': 'huber', 'max_leaf_nodes': 5, 'min_samples_leaf': 1, 'learning_rate': 0.1, 'presort': True, 'min_weight_fraction_leaf': 0, 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}"
+ttu1-1_nodes_planet-lab_org_irisaple_wup,15,AdaBooster,0.000653086,"{'learning_rate': 0.1, 'loss': 'linear', 'n_estimators': 10}"
+ttu1-1_nodes_planet-lab_org_uw_oneswarm,10,LinearRegression,0.007792384,None
+ttu2-1_nodes_planet-lab_org_uw_oneswarm,20,RandomForest,0.005279029,"{'bootstrap': True, 'min_samples_split': 3, 'min_samples_leaf': 5, 'max_depth': 5, 'n_estimators': 20}"
+venus_silicon-valley_ru_irisaple_HEAP,20,DecisionTree,0.001673848,"{'max_leaf_nodes': 7, 'min_samples_leaf': 3, 'min_impurity_decrease': 1, 'presort': True, 'min_samples_split': 7, 'max_depth': None, 'max_features': 'sqrt', 'min_weight_fraction_leaf': 0}"
+venus_silicon-valley_ru_irisaple_wup,10,SVR,0.001916171,"{'coef0': 0, 'degree': 13, 'kernel': 'linear', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+venus_silicon-valley_ru_uw_oneswarm,2,SVR,0.002014439,"{'coef0': 0, 'degree': 3, 'kernel': 'poly', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+vicky_planetlab_ntua_gr_princeton_codeen,15,SVR,0.004926627,"{'coef0': 0, 'degree': 14, 'kernel': 'rbf', 'shrinking': False, 'C': 1, 'epsilon': 0}"
+vn4_cse_wustl_edu_princeton_codeen,10,GradientBoosting,0.005667867,"{'min_samples_split': 8, 'warm_start': True, 'loss': 'lad', 'max_leaf_nodes': 8, 'min_samples_leaf': 1, 'learning_rate': 0.05, 'presort': False, 'min_weight_fraction_leaf': 0, 'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 200}"
+vn4_cse_wustl_edu_root,20,SVR,0.000421276,"{'coef0': 0, 'degree': 17, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+vn4_cse_wustl_edu_uw_oneswarm,15,SVR,0.00341969,"{'coef0': 0, 'degree': 9, 'kernel': 'sigmoid', 'shrinking': True, 'C': 1, 'epsilon': 0}"
+vn5_cse_wustl_edu_princeton_codeen,15,SVR,0.003683744,"{'coef0': 0, 'degree': 12, 'kernel': 'rbf', 'shrinking': True, 'C': 1, 'epsilon': 0}"
